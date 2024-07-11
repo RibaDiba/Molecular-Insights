@@ -6,25 +6,20 @@
      const words = 'Molecular Insights'
 </script>
 
-<main class="">
-     <Navbar />
+<main class="relative min-h-screen">
+     
 
-     <div class="bg-blue-200 flex justify-center first-comp">
-          <div class="absolute flex flex-col items-center justify-center">
+     <div class="bg-blue-200 flex flex-col justify-center items-center w-screen h-screen absolute top-0 left-0">
+          <img src="src/lib/images/shape-background.jpeg" alt="" class="w-full h-full object-cover">
+          <div class="absolute flex flex-col items-center justify-center w-full h-full">
                <span class="text-white text-9xl px-4 py-2 rounded">
                     <TextGenerateEffect {words}/>
                </span>
 
                <Button size='lg' variant='default' class="bg-blue-950 hover:bg-blue-900 mt-10 text-xl p-8 font-mono">Learn More</Button>
           </div>
+          <Navbar />
      </div>
 
-
-
+     
 </main>
-
-<style>
-     .first-comp {
-          margin: 35dvh;
-     }
-</style>
