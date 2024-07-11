@@ -29,14 +29,10 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@react-three/fiber": "^8.16.8",
-		"@types/three": "^0.166.0",
 		"bits-ui": "^0.21.12",
 		"clsx": "^2.1.1",
-		"framer-motion": "^11.3.0",
-		"shadergradient": "^1.2.14",
+		"svelte-motion": "^0.12.2",
 		"tailwind-merge": "^2.4.0",
-		"tailwind-variants": "^0.2.1",
-		"three": "^0.166.1"
+		"tailwind-variants": "^0.2.1"
 	}
 }
