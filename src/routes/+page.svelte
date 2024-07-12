@@ -3,8 +3,10 @@
      import Navbar from '$lib/components/Navbar.svelte'
      import { TextGenerateEffect } from '$lib/components/ui/TextGenerateEffect'
      import MissionStatement from '@/components/MissionStatement.svelte'
+     import { onMount } from 'svelte';
 
      const words = 'Molecular Insights'
+     let scrolled = false
 
      function handleScroll() {
           const missionElement = document.getElementById('mission-statement')
@@ -28,7 +30,7 @@
      </div>
 
      <Navbar />
-     <div id="mission-statement">
+     <div id="" class="position-relative">
           <MissionStatement/>
      </div>
 
