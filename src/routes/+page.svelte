@@ -34,4 +34,8 @@
           <MissionStatement/>
      </div>
 
+     <div id="read-blog">
+
+     </div>
+
 </main>
