@@ -22,18 +22,17 @@
 
 </script>
 
-<main>
+<main class="">
 
+     <h1 class="text-center text-7xl mb-10 mt-10 poppins">Our Mission</h1>
      
      <div class="flex justify-around bg-teal-200" id="">
-          <div class="w-3/5 mt-20">
-               <h1 class="font-bold text-center text-4xl mb-10 mt-10">Our Mission</h1>
-               {#if scrolled}
-                    <TextGenerateEffect words={mission}/>
-               {/if}
+          <div class="w-3/5 mt-20 mx-10 text-justify poppins-thin">
+               
+               <h1 class="text-xl">{mission}</h1>
           </div>
 
-          <div class="justify-center items-center mx-20 items-center half" id="mission-statement">
+          <div class="mx-20" id="mission-statement">
                <Carousel.Root class="w-full max-w-md">
                     <Carousel.Content>
                       {#each Array(5) as _, i (i)}
@@ -59,7 +58,16 @@
 </main>
 
 <style>
-     .half {
-          margin-top: 25vh;
-     }
+
+     .poppins-thin {
+        font-family: "Poppins", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+    }
+
+    .poppins {
+        font-family: "Poppins", sans-serif;
+        font-weight: 200;
+        font-style: normal;
+    }
 </style>

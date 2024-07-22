@@ -24,7 +24,7 @@
 				<div use:motion>
 					{#each words.split(' ') as word, idx (`${word}${idx}`)}
 						<Motion let:motion {variants} custom={idx + 1} initial="hidden" animate={'visible'}>
-							<span use:motion class="text-white dark:text-white font-mono text-8xl">
+							<span use:motion class="text-blue-950 dark:text-white poppins-thin text-8xl">
 								{word}{' '}
 							</span>
 						</Motion>
@@ -34,3 +34,11 @@
 		</div>
 	</div>
 </div>
+
+<style>
+    .poppins-thin {
+        font-family: "Poppins", sans-serif;
+        font-weight: 300;
+        font-style: normal;
+    }
+ </style>

@@ -1,34 +1,47 @@
 <script>
-     import { onMount } from "svelte";
- 
-     let scrolled = false;
- 
-     onMount(() => {
-         const handleScroll = () => {
-             scrolled = window.scrollY > 100;
-         };
- 
-         window.addEventListener('scroll', handleScroll);
- 
-         return () => {
-             window.removeEventListener('scroll', handleScroll);
-         };
-     });
- </script>
+    import { onMount } from "svelte";
+    import logo from '../images/FINAL_Logo-removebg-preview (1).png';
+</script>
 
- <main> 
-     <div class="bg-blue-200">
-         <nav class="fixed top-0 left-0 w-full transition-all duration-300 {scrolled ? 'bg-opacity-50' : 'bg-opacity-0'} {scrolled ? 'backdrop-blur-md' : ''} {scrolled ? 'shadow-md' : ''} bg-teal-500 text-2xl font-bold font-serif ">
-             <div class="container mx-auto flex justify-between items-center p-4 text-blue-900">
-                 <div class="logo">
-                     <a href="/" class="font-bold text-white">Molecular Insights</a>
-                 </div>
-                 <ul class="flex space-x-10">
-                     <li><a href="#home" class="hover:text-gray-200 text-white">About Us</a></li>
-                     <li><a href="/about" class="hover:text-gray-200 text-white">Blog</a></li>
-                 </ul>
-             </div>
-         </nav>
-     </div>
- </main>
- 
+<main> 
+    <div class="bg-blue-200">
+        <nav class="absolute top-0 left-0 w-full bg-transparent text-2xl font-bold font-serif z-10">
+            <div class="container mx-auto flex justify-between items-center p-4 text-blue-950 font-Nuntio font-light text-3xl">
+                <div class="logo poppins-thin flex items-center">
+                    <a href="/" class="font-bold ml-2">Molecular Insights</a>
+                </div>
+                <ul class="flex space-x-10 poppins-thin">
+                    <li><a href="#home" class="poppins-thin after:bg-blue-950 hover-comp ">About Us</a></li>
+                    <li><a href="/about" class="after:bg-blue-950 hover-comp">Blog</a></li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+</main>
+
+<style>
+    .poppins-thin {
+        font-family: "Poppins", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+    }
+
+    .hover-comp {
+        position: relative;
+    }
+
+    .hover-comp::after {
+        content: '';
+        position: absolute;
+        height: 3px;
+        left: 0;
+        bottom: 0;
+        width: 0;
+        transition: width .5s;
+    }
+
+    .hover-comp:hover:after {
+        width: 100%;
+    }
+
+</style>
