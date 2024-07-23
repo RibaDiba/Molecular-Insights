@@ -15,8 +15,8 @@
                <p class=" text-justify text-xl ">{mission}</p>
 
                <div class="flex justify-around">
-                    <Button>Read Our Blog</Button>
-                    <Button>About Us</Button>
+                    <button class="mission-buttons bg-blue-950 border-blue-950">Read Our Blog ></button>
+                    <button class="mission-buttons bg-blue-950 border-blue-950">About Us ></button>
                </div>
           </div>
 
@@ -32,4 +32,22 @@
         font-weight: 200;
         font-style: normal;
     }
+
+     .mission-buttons {   
+          margin-top: 30px;
+          border-style: solid;
+          border-radius: 3px;
+          border-width: 4px;
+          color: white;
+          padding: 20px;
+          font-size: 20px;
+          font-family: "poppins";
+          transition: .3s ease;
+     }        
+
+     .mission-buttons:hover {
+          background-color: inherit;
+          color: black;
+     }
+
 </style>
