@@ -34,7 +34,7 @@
      </div>
  </main>
  
- <style>
+ <style lang="postcss">
      .learn-more {
          transition: padding 0.3s ease;
      }
@@ -42,5 +42,9 @@
      .learn-more:hover {
          padding: 10px;
      }
+
+     :global(body) {
+        @apply bg-blue-200;
+    }
  </style>
  
