@@ -1,3 +1,3 @@
-import TextGenerateEffect from './TextGenerateEffect.svelte';
+import TextGenerateEffect from "./TextGenerateEffect.svelte";
 
 export { TextGenerateEffect };
