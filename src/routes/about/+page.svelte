@@ -8,6 +8,7 @@ import faiza from "../../lib/images/about_us_images/IMG_6268.webp";
 import subi from "../../lib/images/about_us_images/IMG_9300.webp";
 import sara from "../../lib/images/about_us_images/image0.webp";
 import dhruhi from "../../lib/images/about_us_images/image1.webp";
+import insta from "../../lib/images/Social Media images/instagram-apps-icon-free-png.webp"
 
 // Default theme
 import "@splidejs/svelte-splide/css";
@@ -75,23 +76,10 @@ const teamMembers = [
                   <p class="label">{member.name}</p>
                   <p class="title">{member.title}</p>
                   <div class="social-icons flex justify-center mb-10">
-                      <!-- Add social media icons here -->
                       <a href="/"
                           ><img
-                              src="path/to/facebook-icon.png"
-                              alt="Facebook"
-                          /></a
-                      >
-                      <a href="/"
-                          ><img
-                              src="path/to/instagram-icon.png"
+                              src={insta}
                               alt="Instagram"
-                          /></a
-                      >
-                      <a href="/"
-                          ><img
-                              src="path/to/youtube-icon.png"
-                              alt="YouTube"
                           /></a
                       >
                   </div>
@@ -101,9 +89,9 @@ const teamMembers = [
   </Splide>
 </div>
 
-<div class="mt-64">
-  <FooterComponent />
-</div>
+  <div class="mt-20">
+    <FooterComponent />
+  </div>
 </main>
 
 <style>
@@ -156,5 +144,9 @@ const teamMembers = [
 .social-icons img {
   width: 24px;
   height: 24px;
+}
+
+:global(body) {
+  @apply bg-blue-200;
 }
 </style>
