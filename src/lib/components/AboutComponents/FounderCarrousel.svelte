@@ -23,7 +23,7 @@
                   <div class="founder-image">
                       <img src={founder.image} alt="" />
                   </div>
-                  <div class="founder-details flex justify-center flex-col poppins text-lg px-10">
+                  <div class="founder-details flex justify-center flex-col poppins text-lg mx-2">
                       <div class="label mt-3 text-blue-950">{founder.name}</div>
                       <div class="title text-gray-400">{founder.title}</div>
                       <div class="description text-gray-600 mt-2">{founder.description}</div>

@@ -1,6 +1,7 @@
 <script>
 	import Navbar from "@/components/Navbar.svelte";
 	import FooterComponent from "@/components/FooterComponent.svelte";
+	import Writers from "@/components/AboutComponents/Writers.svelte";
 	import { Splide, SplideSlide } from "@splidejs/svelte-splide";
 	import ishwari from "../../lib/images/about_us_images/691f68_ff5c1ba2e7d94d299b034448ba193eb3~mv2.webp";
 	import anumeha from "../../lib/images/about_us_images/b6d17b_1b15acf093e64c6ea0aa0ebd6f4aaf1e~mv2.webp";
@@ -36,36 +37,30 @@
     }
   ]
 
-	const teamMembers = [
-		{
-			name: "Ishwari",
-			title: "Co-Founder",
-			image: ishwari,
-		},
-		{
-			name: "Anumeha",
-			title: "Co-Founder",
-			image: anumeha,
-		},
+	const writers = [
 		{
 			name: "Faiza",
 			title: "Writer",
 			image: faiza,
+			insta: '/dont-forget-url'
 		},
 		{
 			name: "Subi",
 			title: "Writer",
 			image: subi,
+			insta: '/dont-forget-url'
 		},
 		{
 			name: "Sara",
 			title: "Writer",
 			image: sara,
+			insta: '/dont-forget-url'
 		},
 		{
 			name: "Dhruhi",
 			title: "Writer",
 			image: dhruhi,
+			insta: '/dont-forget-url'
 		},
 	];
 </script>
@@ -82,35 +77,12 @@
 		<FounderCarrousel {coFounders} {insta} />
 	  </div>
 	
-
-	<div class="mx-64 mt-20 flex items-center justify-center bg-blue-100 p-20">
-		<Splide
-			aria-label="Meet Our Team"
-			options={{ perPage: 3, gap: "1rem", width: "100%", height: "auto" }}
-		>
-			{#each teamMembers as member}
-				<SplideSlide>
-					<div class="slide-container">
-						<div class="image-container justify-center">
-							<img
-								src={member.image}
-								alt={member.name}
-								class="carousel-image"
-							/>
-						</div>
-						<p class="label">{member.name}</p>
-						<p class="title">{member.title}</p>
-						<div class="social-icons flex justify-center mb-10">
-							<a href="/"><img src={insta} alt="Instagram" /></a>
-						</div>
-					</div>
-				</SplideSlide>
-			{/each}
-		</Splide>
+	<div class="">
+		<Writers {writers} {insta}/>
 	</div>
+	
 
-
-	<div class="mt-20">
+	<div class="">
 		<FooterComponent />
 	</div>
 </main>
