@@ -13,6 +13,9 @@ app.use(bodyPaarser.json());
 // routes 
 const articleRoutes = require('./api/routes/article')
 
+// connect mongoose 
+mongoose.connect('mongodb+srv://3017093:' + process.env. + '@molecular-insights.ktl3kot.mongodb.net/?retryWrites=true&w=majority&appName=Molecular-Insights')
+
 // enable routes
 app.use('/article', articleRoutes)
 
