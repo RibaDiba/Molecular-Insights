@@ -61,6 +61,6 @@
     }
 
     :global(body) {
-        @apply bg-blue-200;
+        @apply bg-blue-100;
     }
 </style>

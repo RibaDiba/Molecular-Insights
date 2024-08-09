@@ -17,13 +17,13 @@
                 <ul class="flex space-x-10 poppins-thin">
                     <li>
                         <a
-                            href="#home"
+                            href="/about"
                             class="poppins-thin after:bg-blue-950 hover-comp"
                             >About Us</a
                         >
                     </li>
                     <li>
-                        <a href="/about" class="after:bg-blue-950 hover-comp"
+                        <a href="/blog" class="after:bg-blue-950 hover-comp"
                             >Blog</a
                         >
                     </li>
