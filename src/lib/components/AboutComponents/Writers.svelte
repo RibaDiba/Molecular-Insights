@@ -7,7 +7,7 @@
 	{#each writers as writer}
 		<div class="flex flex-col justify-center text-center font-writers writer-container m-5">
 			<div class="writer-image">
-				<img src={writer.image} alt="" />
+				<img src={writer.image} class="rounded-lg"alt="" />
 			</div>
 			<div>
 				<div class="text-3xl text-blue-950 my-1px mt-2">{writer.name}</div>

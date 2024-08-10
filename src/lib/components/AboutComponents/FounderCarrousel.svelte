@@ -4,6 +4,7 @@
   
     export let coFounders;
     export let insta;
+    export let linkedIn
   </script>
   
   <main class="everything-container">
@@ -20,15 +21,16 @@
           {#each coFounders as founder}
           <SplideSlide>
               <div class="founder-container flex p-10 px-20">
-                  <div class="founder-image">
-                      <img src={founder.image} alt="" />
+                  <div class="founder-image rounded-lg">
+                      <img src={founder.image} class="rounded-lg" alt="" />
                   </div>
                   <div class="founder-details flex justify-center flex-col poppins text-lg mx-2">
                       <div class="label mt-3 text-blue-950">{founder.name}</div>
                       <div class="title text-gray-400">{founder.title}</div>
                       <div class="description text-gray-600 mt-2">{founder.description}</div>
-                      <div class="social-icons mt-3">
-                          <a href={founder.instaLink}><img src={insta} alt="" /></a>
+                      <div class="social-icons mt-3 flex">
+                          <a href={founder.instaLink}><img src={insta} class="m-1" alt="" /></a>
+                          <a href={founder.linkedIn}><img src={linkedIn} class="bg-blue-100 m-1" alt=""></a>
                       </div>
                   </div>
               </div>

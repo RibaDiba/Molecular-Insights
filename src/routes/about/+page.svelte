@@ -4,13 +4,14 @@
 	import Writers from '@/components/AboutComponents/Writers.svelte';
 	import { ScrollDivider } from '@/components/ui/ScrollDivider/index';
 	import { Splide, SplideSlide } from '@splidejs/svelte-splide';
-	import ishwari from '../../lib/images/about_us_images/691f68_ff5c1ba2e7d94d299b034448ba193eb3~mv2.webp';
+	import ishwari from '/src/lib/images/about_us_images/unnamed (14).jpg';
 	import anumeha from '../../lib/images/about_us_images/b6d17b_1b15acf093e64c6ea0aa0ebd6f4aaf1e~mv2.webp';
 	import faiza from '../../lib/images/about_us_images/IMG_6268.webp';
 	import subi from '../../lib/images/about_us_images/IMG_9300.webp';
 	import sara from '../../lib/images/about_us_images/image0.webp';
 	import dhruhi from '../../lib/images/about_us_images/image1.webp';
 	import insta from '../../lib/images/Social Media images/instagram-apps-icon-free-png.webp';
+	import linkedIn from '../../lib/images/Social Media images/linkedin.png'
 
 	// Default theme
 	import '@splidejs/svelte-splide/css';
@@ -21,7 +22,7 @@
 
 	const coFounders = [
 		{
-			name: 'Ishwari',
+			name: 'Ishwari Veerkar',
 			title: 'Co-Founder',
 			instaLink: '',
 			description:
@@ -30,7 +31,7 @@
 			image: ishwari
 		},
 		{
-			name: 'Anumeha',
+			name: 'Anumeha Haldar',
 			title: 'Co-Founder',
 			instaLink: '',
 			description:
@@ -42,25 +43,25 @@
 
 	const writers = [
 		{
-			name: 'Faiza',
+			name: 'Faiza Shaik',
 			title: 'Writer',
 			image: faiza,
 			insta: '/dont-forget-url'
 		},
 		{
-			name: 'Subi',
+			name: 'Subiksha Baskaran',
 			title: 'Writer',
 			image: subi,
 			insta: '/dont-forget-url'
 		},
 		{
-			name: 'Sara',
+			name: 'Sara Deo',
 			title: 'Writer',
 			image: sara,
 			insta: '/dont-forget-url'
 		},
 		{
-			name: 'Dhruhi',
+			name: 'Dhruhi Patel',
 			title: 'Writer',
 			image: dhruhi,
 			insta: '/dont-forget-url'
@@ -79,7 +80,7 @@
 	</div>
 
 	<div class=" mt-5 flex items-center justify-center items-center bg-blue-100 py-10">
-		<FounderCarrousel {coFounders} {insta} />
+		<FounderCarrousel {coFounders} {insta} {linkedIn}/>
 	</div>
 
 	<div class="bg-blue-100 mx-10 my-5">
@@ -87,7 +88,7 @@
 	</div>
 
 	<div class="">
-		<Writers {writers} {insta} />
+		<Writers {writers} {insta}/>
 	</div>
 
 	<div class="">

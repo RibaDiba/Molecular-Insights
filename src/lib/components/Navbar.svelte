@@ -11,7 +11,8 @@
             <div
                 class="container mx-auto flex justify-between items-center p-4 text-blue-950 font-Nuntio font-light text-3xl m-2"
             >
-                <div class="logo poppins-thin flex items-center">
+                <div class="logo poppins-thin flex items-center logo">
+                    <img src={logo} alt="">
                     <a href="/" class="font-bold ml-2">Molecular Insights</a>
                 </div>
                 <ul class="flex space-x-10 poppins-thin">
@@ -56,5 +57,10 @@
 
     .hover-comp:hover:after {
         width: 100%;
+    }
+
+    .logo img {
+        width: 40px;
+        height: 40px;
     }
 </style>
