@@ -1,6 +1,6 @@
 <script>
     import { onMount } from "svelte";
-    import logo from "../images/FINAL_Logo-removebg-preview (1).png";
+    import logo from "../images/logo/logo.png.png";
 </script>
 
 <main>
@@ -11,7 +11,7 @@
             <div
                 class="container mx-auto flex justify-between items-center p-4 text-blue-950 font-Nuntio font-light text-3xl m-2"
             >
-                <div class="logo poppins-thin flex items-center logo">
+                <div class="logo poppins-thin flex items-center logo justify-center">
                     <img src={logo} alt="">
                     <a href="/" class="font-bold ml-2">Molecular Insights</a>
                 </div>
@@ -60,7 +60,7 @@
     }
 
     .logo img {
-        width: 40px;
-        height: 40px;
+        width: 50px;
+        height: 50px;
     }
 </style>

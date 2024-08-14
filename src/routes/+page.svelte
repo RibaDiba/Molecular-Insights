@@ -16,24 +16,15 @@
 
 <main class="relative min-h-screen flex flex-col">
     <Navbar />
-    <div
-        class="bg-blue-200 flex flex-col justify-center items-center w-full h-screen relative"
-    >
-        <img
-            src="src/lib/images/human_gamete_embryos.webp"
-            alt=""
-            class="w-full h-full object-cover absolute top-0 left-0"
-        />
-        <div
-            class="relative flex flex-col items-center justify-center w-full h-full"
-        >
-            <span class="text-white text-9xl px-4 py-2 rounded">
+    <div class="bg-blue-200 flex flex-col justify-center items-center w-full h-screen relative">
+        <img src="src/lib/images/human_gamete_embryos.webp" alt="" class="w-full h-full object-cover absolute top-0 left-0" />
+        <div class="relative flex flex-col items-center justify-center w-full h-full px-4">
+            <span class="text-white text-6xl md:text-8xl lg:text-9xl px-4 py-2 rounded text-center">
                 <TextGenerateEffect {words} />
             </span>
-            <button
-                class="bg-blue-950 border-blue-950 mt-10 text-xl p-8 font-mono learn-more"
-                on:click={handleScroll}>Learn More</button
-            >
+            <button class="bg-blue-950 border-blue-950 mt-10 text-lg md:text-xl p-4 md:p-6 lg:p-8 font-mono learn-more" on:click={handleScroll}>
+                Learn More
+            </button>
         </div>
     </div>
 
@@ -62,5 +53,31 @@
 
     :global(body) {
         @apply bg-blue-100;
+    }
+
+    @media (max-width: 768px) {
+        .learn-more {
+            padding: 10px;
+        }
+
+        span.text-white {
+            font-size: 3rem;
+        }
+
+        button.learn-more {
+            padding: 10px;
+            font-size: 1.2rem;
+        }
+    }
+
+    @media (min-width: 769px) and (max-width: 1024px) {
+        span.text-white {
+            font-size: 5rem;
+        }
+
+        button.learn-more {
+            padding: 12px;
+            font-size: 1.5rem;
+        }
     }
 </style>

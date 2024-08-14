@@ -20,9 +20,9 @@
     });
 </script>
 
-<main>
+<Navbar />
 
-    <Navbar />
+<main class="container">
 
     <div class="mt-36">
         {#if article}
@@ -30,10 +30,11 @@
         {/if}
     </div>
 
-    <div class="mt-20">
-        <FooterComponent/>
-    </div>
 </main>
+
+<div class="mt-20">
+    <FooterComponent/>
+</div>
 
 <style>
     :global(body) {

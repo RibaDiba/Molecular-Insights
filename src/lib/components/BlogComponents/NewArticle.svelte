@@ -1,7 +1,7 @@
 <script>
     export let articles 
 
-    let article = articles[0]
+    let article = articles[articles.length-1]
 
     console.log(article.image)
 </script>
@@ -10,7 +10,7 @@
     <section class="bg-inherit py-12 poppins">
         <div class="container mx-auto flex flex-col-reverse md:flex-row items-center justify-around">
             <div class="md:w-1/2 m-10">
-                <h1 class="text-4xl font-bold leading-tight text-blue-950">{article.title}</h1>
+                <h1 class="text-4xl font-bold leading-tight text-blue-950"><a href="/blog/{article.id}">{article.title}</a></h1>
                 <p class="mt-4 text-gray-600 text-justify">{article.blurb}</p>
                 <p class="mt-2">{article.author} | {article.date}</p>
             </div>

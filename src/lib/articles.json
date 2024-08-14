@@ -1,31 +1,59 @@
 [
     {
-        "title": "Recent Study: PFA and Skin Absorption",
-        "id": 1,
-        "date": "Aug 9th, 2024",
-        "author": "Subi",
-        "cover": "/src/lib/images/article_images/image.webp",
-        "blurb": "Known as “forever chemicals”, per- and polyfluoroalkyl substances are ever-prevalent and have been linked to adverse health issues. They are commonly found in various products, and have even been found in food and drinking water.",
+        "title": "Donanemab: A New Hope Against Alzheimers",
+        "id": 0,
+        "date": "Jul 8th, 2024",
+        "cover": "https://static.wixstatic.com/media/691f68_eaf65c0f426245ca9aa4006080deacbd~mv2.jpg",
+        "author": "Ishwari Veerkar",
+        "blurb": "You might be wondering, 'What’s Donanemab?' Well, it's a groundbreaking new drug that’s making waves in the fight against Alzheimer's disease. Imagine a superhero for the brain – that’s Donanemab! So, what’s the big deal? It helps clear amyloid plaques in the brain, which are linked to Alzheimer's and this can slow down memory loss.",
         "content": [
             {
-                "header": "The Experiment",
-                "paragragh": "Past studies and research have suggested skin absorption as a possible route of exposure, but were data sparse. For example, one study found that a type of PFA could enter rat skin, but environmental chemist Stuart Harrad countered, stating that rat skin does not directly mimic that of a human. "
+                "header": "Enter Donanemab:",
+                "paragragh": "Meet Donanemab, a new drug that scientists are using as a helper designed to clean up the brain. Recently, FDA has approved the donanemab treatment for Alzheimer’s patients with mild cognitive impairment or mild dementia stage of disease. But what exactly does it do? Let’s break it down."
             },
             {
-                "header": "The Results",
-                "paragragh": "For each compound, researchers analyzed the amount which crossed the skin barrier, was absorbed within the surface of the skin, and not absorbed. Researchers found that 11 PFAs out of the 17 were able to cross the skin barrier, with ones with 4-7 carbon atoms absorbing more easily. They concluded that there is no certainty that PFAs will enter the bloodstream, but have been able to enter the skin."
+                "header": "",
+                "paragragh": "Donanemab is given as a monthly IV infusion that helps in slowing the Alzheimer’s progression and consistent decline in memory. This infusion specifically targets the amyloid plaques within the amygdala and hippocampus of the brain. Imagine your brain as a busy city. Now, think of amyloid plaques as piles of trash that block the roads and make it hard for traffic (your brain signals) to move smoothly. Donanemab acts like a super-efficient garbage truck, picking up and clearing away the trash so that everything can flow smoothly again. It helps the body remove the buildup caused from the amyloid molecules and has shown the most significant results in patients with mild dementia stage of Alzheimer’s Disease."
+            },
+            {
+                "header": "",
+                "paragragh": "",
+                "image": "https://media.npr.org/assets/img/2023/07/17/dona-pet-images_custom-6b1f1ae392de1b76655b9f71b467a1cda0285b95.jpg"
+            },
+            {
+                "header": "Understanding Side Effects",
+                "paragragh": "A common side effect that occurred in about 10% of patients was headaches and swelling within the brain. Some serious effects include allergic reactions causing swelling of the lips or face. If you witness any other side effects, call your doctor immediately! Have a conversation with your doctor or healthcare provider for the best advice! While the risk of bleeding within the brain remains, Donanemab has shown notable improvements in reducing the amyloid progression and increased the retention of memory."
+            },
+            {
+                "header": "Bigger Picture",
+                "paragragh": "Alzheimer's disease affects millions of people worldwide, including some of your grandparents or older relatives. By learning about new treatments like Donanemab, you’re getting a glimpse into the amazing world of medical research and how it can change lives. Science is all about asking questions and finding answers. Whether it's about the brain, space, or the environment, there’s always something new to learn."
+            },
+            {
+                "header": "",
+                "paragragh": "Remember, the next time you hear about Alzheimer's or see someone affected by it, know that scientists are working hard to find solutions. And who knows? Maybe one day, you’ll be the one making the next big discovery!"
             }
         ]
-        
     },
     {
         "title": "CAR T-Cell Therapy: New Lupus Cure",
-        "id": 2,
-        "date": "Aug 8th, 2024",
-        "author": "Sara",
-        "cover": "/src/lib/images/article_images/image1.webp",
-        "blurb": "Lupus, formally known as Systemic lupus erythematosus (SLE), is a chronic autoimmune disorder that occurs when the body’s defensive system, the immune system, attacks the body by mistake. When this happens, the cells of the immune system that produce antibodies, called B cells, attack healthy tissue. ",
+        "id": 1,
+        "date": "Jul 12th, 2024",
+        "cover": "https://static.wixstatic.com/media/691f68_d9a00a86c23d4d7887f93e94e0a4fcc1~mv2.jpg",
+        "author": "Sara Deo",
+        "blurb": " Lupus, a chronic autoimmune disorder, has mistakenly caused the body’s immune system to attack healthy tissues leading to serious inflammation. Enter CAR T-Cell Therapy, a groundbreaking treatment that can offer hope and a healthier future for lupus patients as it transforms lives.",
         "content": [
+            {
+                "header": "What is Lupus?",
+                "paragragh": "Lupus, formally known as Systemic lupus erythematosus (SLE), is a chronic autoimmune disorder that occurs when the body’s defensive system, the immune system, attacks the body by mistake. When this happens, the cells of the immune system that produce antibodies, called B cells, attack healthy tissue. This can result in inflammation and harm to numerous organs, such as the skin, joints, kidneys, heart, and lungs." 
+            },
+            {
+                "header": "",
+                "paragragh": "There are treatments that can lessen or treat lupus. However, therapy options are extremely minimal. Some treatment options such as immunosuppressive medication can improve long-term disease control and patient outcomes. While there hasn’t been a cure for lupus for a long time, there is finally a new hope for patients through CAR T-Cell Therapy. "
+            },
+            {
+                "header": "CAR T-Cell Therapy",
+                "paragragh": "CAR T-cell therapy or modified T cells, is a popular treatment for different forms of cancer such as leukemia, non-Hodgkin lymphoma, and multiple myeloma. With cancer, the immune system often fails to use T cells right away. Even when the T Cells are used, the attack can be inadequate and weak. CAR T-cell immunotherapy alters these T cells to produce CARS or chimeric antigen receptors that stick to tumors and destroy them. A recent study published by the New England Journal of Medicine recommended that CAR T-cell therapy could also be very useful for lupus patients who refuse to respond to other treatments. "
+            },
             {
                 "header": "The Study",
                 "paragragh": "The study included 15 patients, eight with lupus, four with systemic sclerosis, and three with idiopathic inflammatory myositis, a rare muscle disease. Using a single infusion of CAR T-cells designed to target B cells (the immune cells responsible for autoimmunity), researchers eliminated or reduced symptoms and disease biomarkers. Additionally, they monitored the patients after the treatment, and none of the lupus patients relapsed for up to two years."
@@ -33,8 +61,135 @@
             {
                 "header": "The Science Behind the Study",
                 "paragragh": "This investigational therapy in patients with lupus who have active disease is called CABA-201. CABA-201 is a chimeric antigen receptor, or CAR T-cell therapy. Patients in the study get their blood drawn and filtered through a machine in a process called apheresis. This process separates platelets or white blood cells, parts of the blood while returning the rest of the blood to the body. This trial isolates the T Cells in the blood, allowing researchers to genetically modify or change them by putting in a “code” to add the CAR. Using this method, researchers can identify, raid, and eliminate the B cells in the patient's body. Once the T cells are changed, they are multiplied to produce the required dose of CABA-201 cells within the body. Once the CABA -201 cells are injected into the patient's body, they attack the B cells, eliminating them and enabling healthy B cells to appear in the body."
+            },
+            {
+                "header": "",
+                "paragragh": "",
+                "image": "https://www.labiotech.eu/wp-content/uploads/2016/04/car-treg_txcell_lupus_nephritis_autoimmune.jpg"
+            },
+            {
+                "header": "Conclusion",
+                "paragragh": "Overall, the main goal of this investigative study is to see if this method can be safe and effective for patients with a single dose. While this is still in the clinical trial phase, if successful, this one-time dose can correct a patient's life-altering disease and provide a better quality of life. Lupus patients, as well as people with other diseases, can finally live a life without the fear of getting sick and constant pain."
+            }
+        ],
+        "citations": [
+            {
+                "citation": "CAR-T Cell Therapy Shows Promising Results for People with Lupus and Other Autoimmune Diseases | Lupus Foundation of America. (2024, February 23). Lupus Foundation of America. https://www.lupus.org/news/cart-cell-therapy-shows-promising-results-for-people-with-lupus-aD-other-autoimmune-diseases"
+            },
+            {
+                "citation": "Lupus - Symptoms & causes - Mayo Clinic. (2022, October 21). Mayo Clinic. https://www.mayoclinic.org/diseases-conditions/lupus/symptoms-causes/syc-20365789"
+            },
+            {
+                "citation": "O’Mary, L. (2024, July 10). Unlocking lupus: potential cause and cure identified. WebMD. https://www.webmd.com/lupus/news/20240710/unlocking-lupus-potential-cause-and-cure-identified"
             }
         ]
-        
+    },
+    {
+        "title": "Recent Gene Therapies for Sickle Cell Disease",
+        "id": 2,
+        "date": "Jul 15th, 2024",
+        "author": "Anumeha Haldar",
+        "cover": "https://domf5oio6qrcr.cloudfront.net/medialibrary/10606/e24499e9-80bd-4523-b6c5-975240e46e82.jpg",
+        "blurb": "Recently, the FDA approved two novel treatments for sickle cell disease. CASGEVY uses the revolutionary gene technology known as CRISPR while LYFGENIA uses viral vectors. Though these treatments have limitations, they are considered breakthroughs when taking into account the few options available to patients with sickle cell disease.",
+        "content": [
+            {
+                "header": "",
+                "paragragh": "Though we’re halfway through 2024, many people don’t know about the novel gene therapies recently approved by the FDA. CASGEVY and LYFGENIA have risen as a “functional cure” for many patients suffering from sickle cell disease. But before I delve into these therapies, what is sickle cell disease?"
+            },
+            {
+                "header": "Sickle Cell Disease",
+                "paragragh": "Sickle cell disease refers to a group of disorders that are inheritable. In essence, an abnormal amount of hemoglobin causes red blood cells to stray from their regular disc-shape, becoming rather “sickle” or crescent-shaped. This mutation in shape causes sickled red blood cells to struggle in moving and leads to blocked blood flow. This can lead to complications such as pain, infection, and other serious complications like strokes."
+            },
+            {
+                "header": "",
+                "paragragh": "",
+                "image": "https://static.wixstatic.com/media/691f68_365c5a62c71945c080cf98c1d2c0f402~mv2.jpg"
+            },
+            {
+                "header": "CASGEVY",
+                "paragragh": "The CASGEVY treatment works by utilizing the novel technology of CRISPR and has been made through the collaboration of Vertex Pharmaceuticals and CRISPR Therapeutics. CRISPR, adapted from the immune system of bacteria, allows for the most precise gene editing to date. Before treatments, patients receive a mobilization medicine to transport blood stem cells to their bloodstream. These cells are collected and are treated using CASGEVY, which makes precise edits on the patient’s stem cells to suppress the gene that stops the production of fetal hemoglobin. Patients, then, receive conditioning chemotherapy to get rid of existing stem cells in their bone marrow to leave space for treated cells. Upon infusion of the modified cells and successful engraftment, the patient is able to produce healthy, red blood cells. While the treatment has risks like unintended gene edits, the CASGEVY treatment showed 93.5% of candidates (29/31 candidates) didn't have severe vaso-occlusive crises for at least 12 consecutive months upon treatment. Further information about the clinical trial is disclosed on CASGEVY's website which also shows an interactive view of how the treatment works. CASGEVY is the first FDA approved treatment using CRISPR."
+            },
+            {
+                "image": "https://static.wixstatic.com/media/691f68_7ba8a4dc12c1432a8ea71c82de15caa0~mv2.png"
+            }, 
+            {
+                "header": "LYFGENIA",
+                "paragragh": "The LYFGENIA treatment is a cell-based gene therapy made by BlueBird Bio. This treatment uses a viral envelope to transport new genetic material. In essence, upon collection of the patient’s stem cells, copies of the beta-globin genes are added by a viral vector. The modified cells are infused back in the patient's body leading to a process known as engraftment, which causes production of healthy hemoglobin without sickling properties. Clinical trials have shown 88% of candidates (28/32) have not experienced vaso-occlusive events on 6-18 months of infusion while 94% of candidates (30/32) didn’t experience severe vaso-occlusive events. Though this treatment has been deeply studied according to BlueBird Bio, the treatment has a risk of blood cancer and slower recovery time for platelets. Further information is disclosed on the LYFGENIA website with a walkthrough of how the treatment works."
+            },
+            {
+                "image": "https://static.wixstatic.com/media/691f68_8ebcb557864b4612b186a6611b2ebc4b~mv2.png"
+            },
+            {
+                "paragragh": "Both of these treatments serve as innovative medical breakthroughs for patients 12 years and above suffering from sickle cell disease. While they are groundbreaking in nature, they have their risks with CASGEVY having the potential risk of unintended gene edits and LYFGENIA with the risk of blood cancer. Not to mention, both of these treatments require time and money to administer. Despite the significant hurdles, with few options to treat sickle cell disease, these treatments serve as milestone breakthroughs."
+            }
+        ]
+    },
+    {
+        "title": "Hidden Talents",
+        "id": 3,
+        "blurb": "Discovering hidden talents isn't just for people—it happens with medications too! A groundbreaking study by Case Western Reserve University reveals that GLP-1 receptor agonists, commonly used to manage Type 2 Diabetes, might also reduce the risk of certain obesity-related cancers.",
+        "cover": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/RAVLWVY5OZOAZKIWQDHA66UQLE.jpg",
+        "author": "Faiza Shaik",
+        "date": "Jul 17th, 2024",
+        "content": [
+            {
+                "paragragh": "Sometimes we discover that we have hidden talents that we didn’t even know we had, and sometimes we discover that something we thought had only one purpose has another. This is exactly the case with GLP-1 receptor agonists, a type of drug typically used to manage blood sugar levels in those with Type 2 Diabetes. However, recent findings in a study conducted by Case Western Reserve University researches, as published in JAMA Network Open, find that these drugs, especially Ozempic, provide the hidden benefit of potentially reducing the risk of certain obesity-cancers."
+            },
+            {
+                "header": "The Study",
+                "paragragh": "The researchers of this study analyzed the medical records of over 1.6 million Type 2 Diabetes patients on 3 different treatment plans spanning between 2005 and 2018 as related to 13 different obesity-related cancers. Their findings? Those treated with GLP-1 drugs exhibited a significantly decreased risk of developing 10 out of 13 obesity-associated cancers compared to those on insulin treatments. However, those taking GLP-1 drugs did not have a significantly decreased cancer risk compared to those taking metformin, an older diabetic drug."
+            },
+            {
+                "paragragh": "Researchers found that GLP-1 drugs had varying impacts on different types of cancer as well. They found that the risk was reduced especially in esophageal, colorectal, endometrial, gallbladder, kidney, liver, ovarian, and pancreatic cancer as well as meningioma and multiple myeloma. The reduced risk ranged as far as 65% for gallbladder cancer to as low as 24% for kidney cancer. However, there was no significant reduction in risk of developing thyroid, stomach, or breast cancer."
+            },
+            {
+                "image": "https://static.wixstatic.com/media/691f68_57ce0e79a9fa486f9d81b077b6d7b722~mv2.png"
+            },
+            {
+                "header": "Implications and Looking Towards the Future",
+                "paragragh": "However, it is important to note that further studies, like pre-clinical and clinical trials are necessary in order to further validate these findings, and the possible risks and drawbacks must be carefully considered as drug use might cause thyroid cancer. Despite this, the study has promising implications, and various respected experts in the field have weighed in. Yoni Resnick, the director of pharmacy clinical services with the New England Cancer Specialists, highlights the drugs societal and economic impacts, as “you’re reducing the risk for cancer, thus improving the overall health of the population, cutting healthcare costs.” Jennie Stanford, an obesity medicine physician at InteliHealth considers the possible broader applications: “possibilities for using them in dementia, in obesity-associated cancers and other medical problems that are linked back to the same underlying mechanism.”"
+            },
+            {
+                "paragragh": "Nevertheless, this study is undoubtedly important, especially considering that, according to the CDC, it is estimated that 40% of new cancer diagnoses are linked to excess weight. This statistic isn’t just merely data, but a reminder of how our daily lifestyle choices echo in our health, and this research shines a spotlight on its importance."
+            }
+        ],
+        "citations": [
+            {
+                "citation": "Carbajal, Erica. “Ozempic May Lower Risk for Certain Cancers: New Research.” Becker’s Hospital Review, 8 July 2024, www.beckershospitalreview.com/glp-1s/ozempic-may-lower-risk-for-certain-cancers-new-research.html."
+            },
+            {
+                "citation": "Freeborn, Jessica. “Diabetes Drugs like Ozempic May Reduce Risk of 10 Cancers.” Edited by Jill Seladi-Schulman, Medical News Today, MediLexicon International, 12 July 2024, www.medicalnewstoday.com/articles/some-diabetes-drugs-ozempic-may-lower-risks-cancer-obesity#Study-limitations-and-continued-research."
+            },
+            {
+                "citation": "Loeppky, John. “Ozempic, Wegovy Reduced Risk of These 10 Cancers.” Healthline, Healthline Media, 6 July 2024, www.healthline.com/health-news/glp-1-drugs-like-ozempic-may-reduce-risk-of-these-10-cancers#Reduced-risk-of-10-obesity-linked-cancers."
+            },
+            {
+                "citation": "Wang L, Xu R, Kaelber DC, Berger NA. Glucagon-Like Peptide 1 Receptor Agonists and 13 Obesity-Associated Cancers in Patients With Type 2 Diabetes. JAMA Netw Open. 2024;7(7):e2421305. doi:10.1001/jamanetworkopen.2024.21305"
+            }
+        ]
+    },
+    {
+        "title": "Chemical Efficiency: Hydrogen and Nitrite Discovery",
+        "id": 4,
+        "blurb": "A research team from the University Alliance Ruhr in Germany has found a technique that produces both Hydrogen and Nitrite from Ammonia. Originally two separate processes, the team displayed that they could be combined into a single process with higher efficiency and yield.",
+        "author": "Subiksha Baskaran",
+        "date": "Jul 19th, 2024",
+        "cover": "https://static.wixstatic.com/media/b6d17b_b6ce56e58a1746ae8f35be40661ded5b~mv2.png",
+        "content": [
+            {
+                "header": "Sustainability",
+                "paragragh": "As climate concerns become ever-increasing, researchers and scientists are seeking new sustainable methods to reduce the impact on the planet. A research team from the University Alliance Ruhr in Germany has found a technique that produces both Hydrogen and Nitrite from Ammonia. Originally two separate processes, the team displayed that they could be combined into a single process with higher efficiency and yield."
+            },
+            {
+                "header": "The Process",
+                "paragragh": "An alternative process involves converting the hydrogen to ammonia before transport, as it freezes at -33 degrees Celsius. Then when needed, the Ammonia can be converted into Nitrogen, albeit unusable, and Hydrogen via the reverse Haber-Bosch process."
+            },
+            {
+                "paragragh": "The researchers then had the idea of combining the two processes, intending to produce a more usable product besides Nitrogen. The reaction uses Ammonia (NH3) and Water (H2O) to produce Nitrite (NO2) and Hydrogen (H2). In this case, the yield of hydrogen doubled and the produced nitrite can be processed into fertilizer."
+            },
+            {
+                "image": "https://static.wixstatic.com/media/b6d17b_8cf48cc7c9e7440a8496872bce14edda~mv2.png"
+            }
+        ]
     }
 ]

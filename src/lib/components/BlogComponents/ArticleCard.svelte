@@ -1,12 +1,16 @@
 <script>
 
+    import { onMount } from "svelte";
+
     export let articles
+
 </script>
 
 <main>
     <section class="py-12">
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-        {#each articles as article}
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 max-w">
+        {#each [...articles].reverse() as article, i}
+            {#if i > 0}
             <div class="bg-white shadow-md rounded-lg flex flex-col poppins">
                 <div class="image-container rounded-t-lg">  
                     <a href="/blog/{article.id}"><img src={article.cover} alt=""></a>
@@ -19,6 +23,7 @@
                     </div>
                 </div>
             </div>
+            {/if}
         {/each}
     </div>
     </section>
@@ -27,7 +32,7 @@
 <style>
     .image-container img {
         width: 100%;
-        max-height: 300px;
+        max-height: 250px;
         border-top-left-radius: .5rem;
         border-top-right-radius: .5rem;
         object-fit: cover;
@@ -35,5 +40,10 @@
 
     .poppins {
         font-family: "Poppins";
+    }
+
+    .max-w {
+        max-width: 100%;
+        min-width: 400px;
     }
 </style>
