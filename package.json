@@ -36,6 +36,7 @@
         "@splidejs/svelte-splide": "^0.2.9",
         "bits-ui": "^0.21.12",
         "clsx": "^2.1.1",
+        "daisyui": "^4.12.10",
         "embla-carousel-svelte": "^8.1.6",
         "lucide-svelte": "^0.407.0",
         "svelte-motion": "^0.12.2",

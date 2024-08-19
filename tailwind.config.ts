@@ -5,6 +5,17 @@ const config: Config = {
     darkMode: ["class"],
     content: ["./src/**/*.{html,js,svelte,ts}"],
     safelist: ["dark"],
+    plugins: [ require('daisyui'), ],
+    daisyui: {
+        themes: [
+            {
+                myTheme: {
+                    "primary": "#172554",
+                    "base-100": '#dbeafe'
+                }
+            }
+        ]
+    },
     theme: {
         container: {
             center: true,

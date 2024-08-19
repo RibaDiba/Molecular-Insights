@@ -6,6 +6,7 @@
 <main class="mx-64 poppins">
 
     <div class="">
+
         <div class=" poppins font-bold text-blue-950 text-5xl">
             {article.title}
         </div>

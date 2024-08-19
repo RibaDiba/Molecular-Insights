@@ -6,6 +6,7 @@
 	import ArticlePage from "@/components/BlogComponents/ArticlePage.svelte";
 	import { Footer } from "@/components/ui/card";
 	import FooterComponent from "@/components/FooterComponent.svelte";
+	import ArticlePageMobile from "@/components/BlogComponents/ArticlePageMobile.svelte";
     
     let articleId: string;
     let article: any = null;
@@ -20,21 +21,22 @@
     });
 </script>
 
-<Navbar />
+<main class="lg:container">
 
-<main class="container">
-
-    <div class="mt-36">
+    <div class="mt-36 hidden md:block">
         {#if article}
             <ArticlePage {article} />
         {/if}
     </div>
 
+    <div class="block md:hidden mt-20">
+        {#if article}
+            <ArticlePageMobile {article} />
+        {/if}
+    </div>
+
 </main>
 
-<div class="mt-20">
-    <FooterComponent/>
-</div>
 
 <style>
     :global(body) {

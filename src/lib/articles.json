@@ -189,6 +189,65 @@
             },
             {
                 "image": "https://static.wixstatic.com/media/b6d17b_8cf48cc7c9e7440a8496872bce14edda~mv2.png"
+            },
+            {
+                "header": "Energy Requirements",
+                "paragragh": "One challenge researchers faced was finding a catalyst that matched their needs. One issue was due to the reactant NH3, which has a higher tendency to become nitrogen than nitrite. They experimented with multi-metal catalysts and showed success, leading to 87% converting into nitrite. With further developments and implementation, this process can revolutionize how we approach these chemical processes."
+            }
+        ],
+        "citations": [
+            {
+                "citation": "“The Haber Process: A Simple Discovery That Changed the World.” The Oxford Scientist, 31 May 2020, oxsci.org/the-haber-process-a-simple-discovery-that-changed-the-world/."
+            },
+            {
+                "citation": "Ruhr-University Bochum. “Producing hydrogen and fertilizer at the same time.“ ScienceDaily. ScienceDaily, 15 July 2024. www.sciencedaily.com/releases/2024/07/240715135729.htm."
+            },
+            {
+                "citation": "“Producing Hydrogen and Fertilizer at the Same Time.” Chemeurope, www.chemeurope.com/en/news/1183974/producing-hydrogen-and-fertilizer-at-the-same-time.html."
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "PFAS",
+        "blurb": "Dive into the world of PFAS, the notorious 'forever chemicals' lurking in our water! 🧪 These stubborn compounds, found in everyday items like nonstick cookware and stain-resistant fabrics, resist degradation due to their strong carbon-fluorine bonds. But there’s hope!",
+        "author": "Dhruhi Patel",
+        "date": "Jul 22nd, 2024",
+        "cover": "https://www.westonsolutions.com/wp-content/uploads/2022/08/PFAS-Drinking-water-Kammer-02.jpg",
+        "content": [
+            {
+                "header": "Introduction to PFAS",
+                "paragragh": "As consumer and industrial products roll into the market, they are often advertised as completely safe or organic but these statements should be taken with a grain of salt. In the race for ensuring consumer convenience, consumer protection takes a back seat. A noteworthy example of this phenomenon is the incorporation of PFAS, a class of carcinogenic compounds, into household products such as nonstick cookware, stain-resistant carpets and clothing, and firefighting foam. PFAS, or Perflouroalkyl and Polyfluoroalkyl Substances, are known as “forever chemicals” because of their peculiar resistance to degradation. This is caused by PFAS’ strong carbon-fluorine covalent bond; carbon and fluorine’s large electronegativity difference results in their bond expressing partial ionic character and higher bond strength. Further alarming is the fact that, according to a survey by Sapio Research, 80% of consumers are not familiar with “forever chemicals” and the term PFAS, nor are they aware of the health risks of the compounds"
+            },
+            {
+                "paragragh": "Unfortunately, PFAS is widespread and human exposure to the substance is incredibly common since it can be consumed via contaminated water, food, or air. For instance, PFAS can be released from the surface of non-stick pans if cooking at high temperatures. One report by the Centers for Disease Control and Prevention, using data from the National Health and Nutrition Examination Survey (NHANES), found PFAS in the blood of 97% of Americans. Presently, PFAS is spreading exponentially after the products it was in are discarded, PFAS inevitably leaks into the environment, contaminating groundwater."
+            },
+            {
+                "header": "New Research and Future Prospects",
+                "paragragh": "Though, not all hope is lost. A University of California in Riverside (UCR) Research Team have discovered that microorganisms of the genus Acetobacterium, common in wastewater environments, can cleave the C-F chemical bonds of PFAS, effectively destroying the substance. However, the bacteria only seemed capable of performing this miracle on unsaturated PFAS compounds with double carbon-carbon bonds. This research is revolutionary because it advances the search for low-cost water treatment options and for new versions of the bacterium-converted enzyme to fight a variety of PFAS compounds. After all, PFAS are part of a group of 15,000 synthetic chemicals, according to a chemicals database maintained by the U.S. Environmental Protection Agency."
+            },
+            {
+                "image": "https://static.wixstatic.com/media/691f68_6d0555ca024048528f33dd29ad940b79~mv2.jpg"
+            }
+        ],
+        "citations": [
+            {
+                "citation": "“Microbes Found to Destroy Certain “Forever Chemicals.”” ScienceDaily, www.sciencedaily.com/releases/2024/07/240717162500.htm. Accessed 21 July 2024."
+            },
+            {
+                "citation": "“Scientists Identify Microbes That May Destroy “Forever Chemicals” in Groundwater.” .Packaginginsights.com/,"
+            },
+            {
+                "citation": "www.packaginginsights.com/news/scientists-identify-microbes-that-may-destroy-forever-chemicals-in-groundwater.html. Accessed 21 July 2024."
+            },
+            {
+                "citation": "“Perfluoroalkyl and Polyfluoroalkyl Substances (PFAS).” National Institute of Environmental Health Sciences, 3 May 2024, www.niehs.nih.gov/health/topics/agents/pfc#:~:text=They%20are%20ingredients%20in%20various. Accessed 21 July 2024."
+            },
+            {
+                "citation": "“What Are Per- and Polyfluoroalkyl Substances (PFAS)? | U.S. Geological Survey.” Www.usgs.gov, Virginia and West Virginia Water Science Center, 26 July 2022, www.usgs.gov/media/images/what-are-and-polyfluoroalkyl-substances-pfas."
+            },
+            {
+                "citation": "Stiff, Nicole. “PFAS Facts | FAYPWC.COM.” Www.faypwc.com, 15 Mar. 2023, www.faypwc.com/pfas-facts/."
             }
         ]
     }

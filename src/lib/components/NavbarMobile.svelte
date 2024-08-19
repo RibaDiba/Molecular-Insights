@@ -15,9 +15,8 @@
                     <a href="/">
                         <img src={logo} alt="">
                     </a>
-                    <a href="/" class="font-bold ml-2">Molecular Insights</a>
                 </div>
-                <ul class="flex space-x-10 poppins-thin">
+                <ul class="flex space-x-10 poppins-thin text-2xl">
                     <li>
                         <a
                             href="/about"
