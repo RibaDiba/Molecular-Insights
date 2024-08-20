@@ -19,6 +19,7 @@
 	// or only core styles
 	import '@splidejs/svelte-splide/css/core';
 	import FounderCarrousel from '@/components/AboutComponents/FounderCarrousel.svelte';
+	import AboutUsMobile from '@/components/AboutComponents/AboutUsMobile.svelte';
 
 	const coFounders = [
 		{
@@ -69,8 +70,7 @@
 	];
 </script>
 
-<main class="">
-	<Navbar />
+<main class="hidden md:block">
 
 	<div class="mt-40 flex flex-col text-center">
 		<h1 class="meet-header justify-center">Meet Our Team</h1>
@@ -91,10 +91,11 @@
 		<Writers {writers} {insta}/>
 	</div>
 
-	<div class="">
-		<FooterComponent />
-	</div>
 </main>
+
+<div class="block md:hidden mt-24">
+	<AboutUsMobile {coFounders}, {writers}/>
+</div>
 
 <style>
 	.meet-header {
