@@ -49,15 +49,17 @@
           <ScrollDivider transitionTime='2s' height='3px' color='#172554' />
      </div>
 
-     <div class="grid grid-cols-2 gap-5 p-4 pt-0">
-          {#each writers as writer}
-               <div class="grid-item writer-image felx justify-center items-center">
-                    <img src={writer.image} alt="">
-                    <div class="text-primary poppins text-center mt-2">{writer.name}</div>
-                    <div class="text-center text-sm text-gray-500">{writer.title}</div>
-               </div>
-          {/each}
-     </div>
+     <div class="flex justify-center">
+        <div class="grid grid-cols-2 gap-7 p-6 pt-0">
+            {#each writers as writer}
+                <div class="grid-item writer-image felx justify-center items-center">
+                        <img src={writer.image} alt="" class="rounded-lg">
+                        <div class="text-primary poppins text-center mt-2">{writer.name}</div>
+                        <div class="text-center text-sm text-gray-500">{writer.title}</div>
+                </div>
+            {/each}
+        </div>
+    </div>
  </main>
  
  <style>

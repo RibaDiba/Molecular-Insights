@@ -40,7 +40,14 @@
                         >
                             <span
                                 use:motion
-                                class="text-blue-950 dark:text-white poppins-thin text-8xl"
+                                class="text-blue-950 dark:text-white poppins-thin text-8xl hidden md:block"
+                            >
+                                {word}{" "}
+                            </span>
+
+                            <span
+                                use:motion
+                                class="text-blue-950 dark:text-white poppins-thin text-7xl block md:hidden"
                             >
                                 {word}{" "}
                             </span>

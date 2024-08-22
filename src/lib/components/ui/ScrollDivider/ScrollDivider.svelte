@@ -35,7 +35,7 @@
 	});
 </script>
 
-<main class="bg-blue-100">
+<main class="bg-inherit">
 	<div
 		class="divider"
 		bind:this={divider}

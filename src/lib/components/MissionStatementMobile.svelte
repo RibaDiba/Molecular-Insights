@@ -11,27 +11,23 @@
     
     let image_array = [image1, image2, image3];
 
-    // Default theme
     import '@splidejs/svelte-splide/css';
 	import ScrollDivider from "./ui/ScrollDivider/ScrollDivider.svelte";
 </script>
 
-<main class="mb-5 ">
-    <div class="mission-container mt-10 ">
-        <h1 class="text-5xl text-center poppins-thin">Our Mission</h1>
-        <div class="overflow-hidden m-5 mx-96 mb-10 bg-inherit">
+<main class="mb-5">
+    <div class="mission-container mt-10">
+        <h1 class="text-4xl sm:text-5xl text-center poppins-thin">Our Mission</h1>
+        <div class="overflow-hidden m-5 sm:mx-96 mb-10 bg-inherit">
             <ScrollDivider transitionTime='2s' color='#172554' height='7px'/>
         </div>
     </div>
 
-    <div class="content-container relative">
-        <div class="absolute "></div>
-
-        <div class="mission-text z-10">
-            <p class="poppins-thin text-4xl text-center mb-5">Inspire. Inform. Educate.</p>
-            <p class="text-justify text-lg">{mission}</p>
-
-            <div class="button-group flex justify-around mt-5">
+    <div class="content-container flex flex-col justify-center items-center relative">
+        <div class="mission-text z-10 max-w-full sm:max-w-3xl px-4 sm:px-0">
+            <p class="poppins-thin text-2xl sm:text-4xl text-center mb-5">Inspire. Inform. Educate.</p>
+            <p class="text-justify text-base sm:text-lg">{mission}</p>
+            <div class="button-group flex sm:flex-row justify-around mt-4">
                 <a href="/blog">
                     <button class="mission-buttons bg-blue-950 border-blue-950">Read Our Blog &gt;</button>
                 </a>
@@ -41,7 +37,7 @@
             </div>
         </div>
 
-        <div class="carousel-container z-10">
+        <div class="carousel-container z-10 mt-10 sm:mt-0 max-w-full">
             <Splide
                 aria-label="Meet Our Co-Founders"
                 options={{
@@ -51,8 +47,8 @@
                     pauseOnHover: true,
                     pauseOnFocus: true,
                     width: '100%',
-                    gap: '20px',
-                    padding: '1rem',
+                    gap: '10px',
+                    padding: '0.5rem',
                 }}
                 hasTrack={false}
             >
@@ -85,18 +81,14 @@
         font-weight: 200;
     }
 
-    .mission-container {
-        margin: 20px 0;
-    }
-
     .mission-buttons {
         margin-top: 10px;
         border-style: solid;
         border-radius: 3px;
         border-width: 4px;
         color: white;
-        padding: 20px;
-        font-size: 20px;
+        padding: 10px;
+        font-size: 18px;
         font-family: "Poppins", sans-serif;
         transition: 0.3s ease;
         cursor: pointer;
@@ -111,31 +103,13 @@
         color: black;
     }
 
-    .divider {
-        height: 4px;
-        background-color: black;
-        margin: 20px auto;
-        width: 60%;
-    }
-
     .content-container {
-        display: flex;
-        justify-content: space-around;
-        align-items: center;
         margin: 0 20px;
     }
 
-    .mission-text {
-        max-width: 40%;
-    }
-
-    .carousel-container {
-        max-width: 50%;
-    }
-
     .front-images img {
-        width: 1000px;
-        height: 100%;
+        width: 100%;
+        height: auto;
         object-fit: cover;
         margin: 0;
     }
@@ -163,4 +137,5 @@
     .splide__arrow {
         display: none;
     }   
+
 </style>
