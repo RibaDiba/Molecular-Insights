@@ -8,7 +8,7 @@
 
 <main>
     <section class="py-12 hidden md:block mx-20">
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 max-w">
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 2xl:grid-cols-4 gap-6 max-w">
         {#each [...articles].reverse() as article, i}
             {#if i > 0}
                 <div class="bg-white shadow-md rounded-lg flex flex-col poppins">

@@ -3,6 +3,8 @@
   </script>
   
   <footer class="bg-blue-950 text-white py-6 px-4 md:px-8 poppins">
+
+
     <div class="container mx-auto flex flex-col items-center text-center space-y-4 md:flex-row md:justify-between md:space-y-0">
       <!-- Links -->
       <div class="flex flex-col items-center md:items-start space-y-2">

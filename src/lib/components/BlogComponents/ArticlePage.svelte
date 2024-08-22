@@ -3,7 +3,7 @@
     export let article
 </script>
 
-<main class="mx-64 poppins">
+<main class="mx-64 poppins mb-10">
 
     <div class="">
 
@@ -12,7 +12,7 @@
         </div>
     
         <div class="mt-3 poppins text-lg">
-            {article.author} | {article.date}
+            <div class="font-bold text-blue-900">{article.author}</div>  {article.date}
         </div>
     
         <div class="cover-container mt-5">

@@ -16,9 +16,9 @@
 	import ScrollDivider from "./ui/ScrollDivider/ScrollDivider.svelte";
 </script>
 
-<main class="mb-5 ">
+<main class="mb-5">
     <div class="mission-container mt-10 ">
-        <h1 class="text-5xl text-center poppins-thin">Our Mission</h1>
+        <h1 class="mt-5 text-5xl text-center poppins-thin">Our Mission</h1>
         <div class="overflow-hidden m-5 mx-96 mb-10 bg-inherit">
             <ScrollDivider transitionTime='2s' color='#172554' height='7px'/>
         </div>
