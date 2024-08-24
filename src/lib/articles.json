@@ -9,28 +9,28 @@
         "content": [
             {
                 "header": "Enter Donanemab:",
-                "paragragh": "Meet Donanemab, a new drug that scientists are using as a helper designed to clean up the brain. Recently, FDA has approved the donanemab treatment for Alzheimer’s patients with mild cognitive impairment or mild dementia stage of disease. But what exactly does it do? Let’s break it down."
+                "paragraph": "Meet Donanemab, a new drug that scientists are using as a helper designed to clean up the brain. Recently, FDA has approved the donanemab treatment for Alzheimer’s patients with mild cognitive impairment or mild dementia stage of disease. But what exactly does it do? Let’s break it down."
             },
             {
                 "header": "",
-                "paragragh": "Donanemab is given as a monthly IV infusion that helps in slowing the Alzheimer’s progression and consistent decline in memory. This infusion specifically targets the amyloid plaques within the amygdala and hippocampus of the brain. Imagine your brain as a busy city. Now, think of amyloid plaques as piles of trash that block the roads and make it hard for traffic (your brain signals) to move smoothly. Donanemab acts like a super-efficient garbage truck, picking up and clearing away the trash so that everything can flow smoothly again. It helps the body remove the buildup caused from the amyloid molecules and has shown the most significant results in patients with mild dementia stage of Alzheimer’s Disease."
+                "paragraph": "Donanemab is given as a monthly IV infusion that helps in slowing the Alzheimer’s progression and consistent decline in memory. This infusion specifically targets the amyloid plaques within the amygdala and hippocampus of the brain. Imagine your brain as a busy city. Now, think of amyloid plaques as piles of trash that block the roads and make it hard for traffic (your brain signals) to move smoothly. Donanemab acts like a super-efficient garbage truck, picking up and clearing away the trash so that everything can flow smoothly again. It helps the body remove the buildup caused from the amyloid molecules and has shown the most significant results in patients with mild dementia stage of Alzheimer’s Disease."
             },
             {
                 "header": "",
-                "paragragh": "",
+                "paragraph": "",
                 "image": "https://media.npr.org/assets/img/2023/07/17/dona-pet-images_custom-6b1f1ae392de1b76655b9f71b467a1cda0285b95.jpg"
             },
             {
                 "header": "Understanding Side Effects",
-                "paragragh": "A common side effect that occurred in about 10% of patients was headaches and swelling within the brain. Some serious effects include allergic reactions causing swelling of the lips or face. If you witness any other side effects, call your doctor immediately! Have a conversation with your doctor or healthcare provider for the best advice! While the risk of bleeding within the brain remains, Donanemab has shown notable improvements in reducing the amyloid progression and increased the retention of memory."
+                "paragraph": "A common side effect that occurred in about 10% of patients was headaches and swelling within the brain. Some serious effects include allergic reactions causing swelling of the lips or face. If you witness any other side effects, call your doctor immediately! Have a conversation with your doctor or healthcare provider for the best advice! While the risk of bleeding within the brain remains, Donanemab has shown notable improvements in reducing the amyloid progression and increased the retention of memory."
             },
             {
                 "header": "Bigger Picture",
-                "paragragh": "Alzheimer's disease affects millions of people worldwide, including some of your grandparents or older relatives. By learning about new treatments like Donanemab, you’re getting a glimpse into the amazing world of medical research and how it can change lives. Science is all about asking questions and finding answers. Whether it's about the brain, space, or the environment, there’s always something new to learn."
+                "paragraph": "Alzheimer's disease affects millions of people worldwide, including some of your grandparents or older relatives. By learning about new treatments like Donanemab, you’re getting a glimpse into the amazing world of medical research and how it can change lives. Science is all about asking questions and finding answers. Whether it's about the brain, space, or the environment, there’s always something new to learn."
             },
             {
                 "header": "",
-                "paragragh": "Remember, the next time you hear about Alzheimer's or see someone affected by it, know that scientists are working hard to find solutions. And who knows? Maybe one day, you’ll be the one making the next big discovery!"
+                "paragraph": "Remember, the next time you hear about Alzheimer's or see someone affected by it, know that scientists are working hard to find solutions. And who knows? Maybe one day, you’ll be the one making the next big discovery!"
             }
         ]
     },
@@ -44,32 +44,32 @@
         "content": [
             {
                 "header": "What is Lupus?",
-                "paragragh": "Lupus, formally known as Systemic lupus erythematosus (SLE), is a chronic autoimmune disorder that occurs when the body’s defensive system, the immune system, attacks the body by mistake. When this happens, the cells of the immune system that produce antibodies, called B cells, attack healthy tissue. This can result in inflammation and harm to numerous organs, such as the skin, joints, kidneys, heart, and lungs." 
+                "paragraph": "Lupus, formally known as Systemic lupus erythematosus (SLE), is a chronic autoimmune disorder that occurs when the body’s defensive system, the immune system, attacks the body by mistake. When this happens, the cells of the immune system that produce antibodies, called B cells, attack healthy tissue. This can result in inflammation and harm to numerous organs, such as the skin, joints, kidneys, heart, and lungs." 
             },
             {
                 "header": "",
-                "paragragh": "There are treatments that can lessen or treat lupus. However, therapy options are extremely minimal. Some treatment options such as immunosuppressive medication can improve long-term disease control and patient outcomes. While there hasn’t been a cure for lupus for a long time, there is finally a new hope for patients through CAR T-Cell Therapy. "
+                "paragraph": "There are treatments that can lessen or treat lupus. However, therapy options are extremely minimal. Some treatment options such as immunosuppressive medication can improve long-term disease control and patient outcomes. While there hasn’t been a cure for lupus for a long time, there is finally a new hope for patients through CAR T-Cell Therapy. "
             },
             {
                 "header": "CAR T-Cell Therapy",
-                "paragragh": "CAR T-cell therapy or modified T cells, is a popular treatment for different forms of cancer such as leukemia, non-Hodgkin lymphoma, and multiple myeloma. With cancer, the immune system often fails to use T cells right away. Even when the T Cells are used, the attack can be inadequate and weak. CAR T-cell immunotherapy alters these T cells to produce CARS or chimeric antigen receptors that stick to tumors and destroy them. A recent study published by the New England Journal of Medicine recommended that CAR T-cell therapy could also be very useful for lupus patients who refuse to respond to other treatments. "
+                "paragraph": "CAR T-cell therapy or modified T cells, is a popular treatment for different forms of cancer such as leukemia, non-Hodgkin lymphoma, and multiple myeloma. With cancer, the immune system often fails to use T cells right away. Even when the T Cells are used, the attack can be inadequate and weak. CAR T-cell immunotherapy alters these T cells to produce CARS or chimeric antigen receptors that stick to tumors and destroy them. A recent study published by the New England Journal of Medicine recommended that CAR T-cell therapy could also be very useful for lupus patients who refuse to respond to other treatments. "
             },
             {
                 "header": "The Study",
-                "paragragh": "The study included 15 patients, eight with lupus, four with systemic sclerosis, and three with idiopathic inflammatory myositis, a rare muscle disease. Using a single infusion of CAR T-cells designed to target B cells (the immune cells responsible for autoimmunity), researchers eliminated or reduced symptoms and disease biomarkers. Additionally, they monitored the patients after the treatment, and none of the lupus patients relapsed for up to two years."
+                "paragraph": "The study included 15 patients, eight with lupus, four with systemic sclerosis, and three with idiopathic inflammatory myositis, a rare muscle disease. Using a single infusion of CAR T-cells designed to target B cells (the immune cells responsible for autoimmunity), researchers eliminated or reduced symptoms and disease biomarkers. Additionally, they monitored the patients after the treatment, and none of the lupus patients relapsed for up to two years."
             },
             {
                 "header": "The Science Behind the Study",
-                "paragragh": "This investigational therapy in patients with lupus who have active disease is called CABA-201. CABA-201 is a chimeric antigen receptor, or CAR T-cell therapy. Patients in the study get their blood drawn and filtered through a machine in a process called apheresis. This process separates platelets or white blood cells, parts of the blood while returning the rest of the blood to the body. This trial isolates the T Cells in the blood, allowing researchers to genetically modify or change them by putting in a “code” to add the CAR. Using this method, researchers can identify, raid, and eliminate the B cells in the patient's body. Once the T cells are changed, they are multiplied to produce the required dose of CABA-201 cells within the body. Once the CABA -201 cells are injected into the patient's body, they attack the B cells, eliminating them and enabling healthy B cells to appear in the body."
+                "paragraph": "This investigational therapy in patients with lupus who have active disease is called CABA-201. CABA-201 is a chimeric antigen receptor, or CAR T-cell therapy. Patients in the study get their blood drawn and filtered through a machine in a process called apheresis. This process separates platelets or white blood cells, parts of the blood while returning the rest of the blood to the body. This trial isolates the T Cells in the blood, allowing researchers to genetically modify or change them by putting in a “code” to add the CAR. Using this method, researchers can identify, raid, and eliminate the B cells in the patient's body. Once the T cells are changed, they are multiplied to produce the required dose of CABA-201 cells within the body. Once the CABA -201 cells are injected into the patient's body, they attack the B cells, eliminating them and enabling healthy B cells to appear in the body."
             },
             {
                 "header": "",
-                "paragragh": "",
+                "paragraph": "",
                 "image": "https://www.labiotech.eu/wp-content/uploads/2016/04/car-treg_txcell_lupus_nephritis_autoimmune.jpg"
             },
             {
                 "header": "Conclusion",
-                "paragragh": "Overall, the main goal of this investigative study is to see if this method can be safe and effective for patients with a single dose. While this is still in the clinical trial phase, if successful, this one-time dose can correct a patient's life-altering disease and provide a better quality of life. Lupus patients, as well as people with other diseases, can finally live a life without the fear of getting sick and constant pain."
+                "paragraph": "Overall, the main goal of this investigative study is to see if this method can be safe and effective for patients with a single dose. While this is still in the clinical trial phase, if successful, this one-time dose can correct a patient's life-altering disease and provide a better quality of life. Lupus patients, as well as people with other diseases, can finally live a life without the fear of getting sick and constant pain."
             }
         ],
         "citations": [
@@ -94,33 +94,33 @@
         "content": [
             {
                 "header": "",
-                "paragragh": "Though we’re halfway through 2024, many people don’t know about the novel gene therapies recently approved by the FDA. CASGEVY and LYFGENIA have risen as a “functional cure” for many patients suffering from sickle cell disease. But before I delve into these therapies, what is sickle cell disease?"
+                "paragraph": "Though we’re halfway through 2024, many people don’t know about the novel gene therapies recently approved by the FDA. CASGEVY and LYFGENIA have risen as a “functional cure” for many patients suffering from sickle cell disease. But before I delve into these therapies, what is sickle cell disease?"
             },
             {
                 "header": "Sickle Cell Disease",
-                "paragragh": "Sickle cell disease refers to a group of disorders that are inheritable. In essence, an abnormal amount of hemoglobin causes red blood cells to stray from their regular disc-shape, becoming rather “sickle” or crescent-shaped. This mutation in shape causes sickled red blood cells to struggle in moving and leads to blocked blood flow. This can lead to complications such as pain, infection, and other serious complications like strokes."
+                "paragraph": "Sickle cell disease refers to a group of disorders that are inheritable. In essence, an abnormal amount of hemoglobin causes red blood cells to stray from their regular disc-shape, becoming rather “sickle” or crescent-shaped. This mutation in shape causes sickled red blood cells to struggle in moving and leads to blocked blood flow. This can lead to complications such as pain, infection, and other serious complications like strokes."
             },
             {
                 "header": "",
-                "paragragh": "",
+                "paragraph": "",
                 "image": "https://static.wixstatic.com/media/691f68_365c5a62c71945c080cf98c1d2c0f402~mv2.jpg"
             },
             {
                 "header": "CASGEVY",
-                "paragragh": "The CASGEVY treatment works by utilizing the novel technology of CRISPR and has been made through the collaboration of Vertex Pharmaceuticals and CRISPR Therapeutics. CRISPR, adapted from the immune system of bacteria, allows for the most precise gene editing to date. Before treatments, patients receive a mobilization medicine to transport blood stem cells to their bloodstream. These cells are collected and are treated using CASGEVY, which makes precise edits on the patient’s stem cells to suppress the gene that stops the production of fetal hemoglobin. Patients, then, receive conditioning chemotherapy to get rid of existing stem cells in their bone marrow to leave space for treated cells. Upon infusion of the modified cells and successful engraftment, the patient is able to produce healthy, red blood cells. While the treatment has risks like unintended gene edits, the CASGEVY treatment showed 93.5% of candidates (29/31 candidates) didn't have severe vaso-occlusive crises for at least 12 consecutive months upon treatment. Further information about the clinical trial is disclosed on CASGEVY's website which also shows an interactive view of how the treatment works. CASGEVY is the first FDA approved treatment using CRISPR."
+                "paragraph": "The CASGEVY treatment works by utilizing the novel technology of CRISPR and has been made through the collaboration of Vertex Pharmaceuticals and CRISPR Therapeutics. CRISPR, adapted from the immune system of bacteria, allows for the most precise gene editing to date. Before treatments, patients receive a mobilization medicine to transport blood stem cells to their bloodstream. These cells are collected and are treated using CASGEVY, which makes precise edits on the patient’s stem cells to suppress the gene that stops the production of fetal hemoglobin. Patients, then, receive conditioning chemotherapy to get rid of existing stem cells in their bone marrow to leave space for treated cells. Upon infusion of the modified cells and successful engraftment, the patient is able to produce healthy, red blood cells. While the treatment has risks like unintended gene edits, the CASGEVY treatment showed 93.5% of candidates (29/31 candidates) didn't have severe vaso-occlusive crises for at least 12 consecutive months upon treatment. Further information about the clinical trial is disclosed on CASGEVY's website which also shows an interactive view of how the treatment works. CASGEVY is the first FDA approved treatment using CRISPR."
             },
             {
                 "image": "https://static.wixstatic.com/media/691f68_7ba8a4dc12c1432a8ea71c82de15caa0~mv2.png"
             }, 
             {
                 "header": "LYFGENIA",
-                "paragragh": "The LYFGENIA treatment is a cell-based gene therapy made by BlueBird Bio. This treatment uses a viral envelope to transport new genetic material. In essence, upon collection of the patient’s stem cells, copies of the beta-globin genes are added by a viral vector. The modified cells are infused back in the patient's body leading to a process known as engraftment, which causes production of healthy hemoglobin without sickling properties. Clinical trials have shown 88% of candidates (28/32) have not experienced vaso-occlusive events on 6-18 months of infusion while 94% of candidates (30/32) didn’t experience severe vaso-occlusive events. Though this treatment has been deeply studied according to BlueBird Bio, the treatment has a risk of blood cancer and slower recovery time for platelets. Further information is disclosed on the LYFGENIA website with a walkthrough of how the treatment works."
+                "paragraph": "The LYFGENIA treatment is a cell-based gene therapy made by BlueBird Bio. This treatment uses a viral envelope to transport new genetic material. In essence, upon collection of the patient’s stem cells, copies of the beta-globin genes are added by a viral vector. The modified cells are infused back in the patient's body leading to a process known as engraftment, which causes production of healthy hemoglobin without sickling properties. Clinical trials have shown 88% of candidates (28/32) have not experienced vaso-occlusive events on 6-18 months of infusion while 94% of candidates (30/32) didn’t experience severe vaso-occlusive events. Though this treatment has been deeply studied according to BlueBird Bio, the treatment has a risk of blood cancer and slower recovery time for platelets. Further information is disclosed on the LYFGENIA website with a walkthrough of how the treatment works."
             },
             {
                 "image": "https://static.wixstatic.com/media/691f68_8ebcb557864b4612b186a6611b2ebc4b~mv2.png"
             },
             {
-                "paragragh": "Both of these treatments serve as innovative medical breakthroughs for patients 12 years and above suffering from sickle cell disease. While they are groundbreaking in nature, they have their risks with CASGEVY having the potential risk of unintended gene edits and LYFGENIA with the risk of blood cancer. Not to mention, both of these treatments require time and money to administer. Despite the significant hurdles, with few options to treat sickle cell disease, these treatments serve as milestone breakthroughs."
+                "paragraph": "Both of these treatments serve as innovative medical breakthroughs for patients 12 years and above suffering from sickle cell disease. While they are groundbreaking in nature, they have their risks with CASGEVY having the potential risk of unintended gene edits and LYFGENIA with the risk of blood cancer. Not to mention, both of these treatments require time and money to administer. Despite the significant hurdles, with few options to treat sickle cell disease, these treatments serve as milestone breakthroughs."
             }
         ]
     },
@@ -133,24 +133,24 @@
         "date": "Jul 17th, 2024",
         "content": [
             {
-                "paragragh": "Sometimes we discover that we have hidden talents that we didn’t even know we had, and sometimes we discover that something we thought had only one purpose has another. This is exactly the case with GLP-1 receptor agonists, a type of drug typically used to manage blood sugar levels in those with Type 2 Diabetes. However, recent findings in a study conducted by Case Western Reserve University researches, as published in JAMA Network Open, find that these drugs, especially Ozempic, provide the hidden benefit of potentially reducing the risk of certain obesity-cancers."
+                "paragraph": "Sometimes we discover that we have hidden talents that we didn’t even know we had, and sometimes we discover that something we thought had only one purpose has another. This is exactly the case with GLP-1 receptor agonists, a type of drug typically used to manage blood sugar levels in those with Type 2 Diabetes. However, recent findings in a study conducted by Case Western Reserve University researches, as published in JAMA Network Open, find that these drugs, especially Ozempic, provide the hidden benefit of potentially reducing the risk of certain obesity-cancers."
             },
             {
                 "header": "The Study",
-                "paragragh": "The researchers of this study analyzed the medical records of over 1.6 million Type 2 Diabetes patients on 3 different treatment plans spanning between 2005 and 2018 as related to 13 different obesity-related cancers. Their findings? Those treated with GLP-1 drugs exhibited a significantly decreased risk of developing 10 out of 13 obesity-associated cancers compared to those on insulin treatments. However, those taking GLP-1 drugs did not have a significantly decreased cancer risk compared to those taking metformin, an older diabetic drug."
+                "paragraph": "The researchers of this study analyzed the medical records of over 1.6 million Type 2 Diabetes patients on 3 different treatment plans spanning between 2005 and 2018 as related to 13 different obesity-related cancers. Their findings? Those treated with GLP-1 drugs exhibited a significantly decreased risk of developing 10 out of 13 obesity-associated cancers compared to those on insulin treatments. However, those taking GLP-1 drugs did not have a significantly decreased cancer risk compared to those taking metformin, an older diabetic drug."
             },
             {
-                "paragragh": "Researchers found that GLP-1 drugs had varying impacts on different types of cancer as well. They found that the risk was reduced especially in esophageal, colorectal, endometrial, gallbladder, kidney, liver, ovarian, and pancreatic cancer as well as meningioma and multiple myeloma. The reduced risk ranged as far as 65% for gallbladder cancer to as low as 24% for kidney cancer. However, there was no significant reduction in risk of developing thyroid, stomach, or breast cancer."
+                "paragraph": "Researchers found that GLP-1 drugs had varying impacts on different types of cancer as well. They found that the risk was reduced especially in esophageal, colorectal, endometrial, gallbladder, kidney, liver, ovarian, and pancreatic cancer as well as meningioma and multiple myeloma. The reduced risk ranged as far as 65% for gallbladder cancer to as low as 24% for kidney cancer. However, there was no significant reduction in risk of developing thyroid, stomach, or breast cancer."
             },
             {
                 "image": "https://static.wixstatic.com/media/691f68_57ce0e79a9fa486f9d81b077b6d7b722~mv2.png"
             },
             {
                 "header": "Implications and Looking Towards the Future",
-                "paragragh": "However, it is important to note that further studies, like pre-clinical and clinical trials are necessary in order to further validate these findings, and the possible risks and drawbacks must be carefully considered as drug use might cause thyroid cancer. Despite this, the study has promising implications, and various respected experts in the field have weighed in. Yoni Resnick, the director of pharmacy clinical services with the New England Cancer Specialists, highlights the drugs societal and economic impacts, as “you’re reducing the risk for cancer, thus improving the overall health of the population, cutting healthcare costs.” Jennie Stanford, an obesity medicine physician at InteliHealth considers the possible broader applications: “possibilities for using them in dementia, in obesity-associated cancers and other medical problems that are linked back to the same underlying mechanism.”"
+                "paragraph": "However, it is important to note that further studies, like pre-clinical and clinical trials are necessary in order to further validate these findings, and the possible risks and drawbacks must be carefully considered as drug use might cause thyroid cancer. Despite this, the study has promising implications, and various respected experts in the field have weighed in. Yoni Resnick, the director of pharmacy clinical services with the New England Cancer Specialists, highlights the drugs societal and economic impacts, as “you’re reducing the risk for cancer, thus improving the overall health of the population, cutting healthcare costs.” Jennie Stanford, an obesity medicine physician at InteliHealth considers the possible broader applications: “possibilities for using them in dementia, in obesity-associated cancers and other medical problems that are linked back to the same underlying mechanism.”"
             },
             {
-                "paragragh": "Nevertheless, this study is undoubtedly important, especially considering that, according to the CDC, it is estimated that 40% of new cancer diagnoses are linked to excess weight. This statistic isn’t just merely data, but a reminder of how our daily lifestyle choices echo in our health, and this research shines a spotlight on its importance."
+                "paragraph": "Nevertheless, this study is undoubtedly important, especially considering that, according to the CDC, it is estimated that 40% of new cancer diagnoses are linked to excess weight. This statistic isn’t just merely data, but a reminder of how our daily lifestyle choices echo in our health, and this research shines a spotlight on its importance."
             }
         ],
         "citations": [
@@ -178,21 +178,21 @@
         "content": [
             {
                 "header": "Sustainability",
-                "paragragh": "As climate concerns become ever-increasing, researchers and scientists are seeking new sustainable methods to reduce the impact on the planet. A research team from the University Alliance Ruhr in Germany has found a technique that produces both Hydrogen and Nitrite from Ammonia. Originally two separate processes, the team displayed that they could be combined into a single process with higher efficiency and yield."
+                "paragraph": "As climate concerns become ever-increasing, researchers and scientists are seeking new sustainable methods to reduce the impact on the planet. A research team from the University Alliance Ruhr in Germany has found a technique that produces both Hydrogen and Nitrite from Ammonia. Originally two separate processes, the team displayed that they could be combined into a single process with higher efficiency and yield."
             },
             {
                 "header": "The Process",
-                "paragragh": "An alternative process involves converting the hydrogen to ammonia before transport, as it freezes at -33 degrees Celsius. Then when needed, the Ammonia can be converted into Nitrogen, albeit unusable, and Hydrogen via the reverse Haber-Bosch process."
+                "paragraph": "An alternative process involves converting the hydrogen to ammonia before transport, as it freezes at -33 degrees Celsius. Then when needed, the Ammonia can be converted into Nitrogen, albeit unusable, and Hydrogen via the reverse Haber-Bosch process."
             },
             {
-                "paragragh": "The researchers then had the idea of combining the two processes, intending to produce a more usable product besides Nitrogen. The reaction uses Ammonia (NH3) and Water (H2O) to produce Nitrite (NO2) and Hydrogen (H2). In this case, the yield of hydrogen doubled and the produced nitrite can be processed into fertilizer."
+                "paragraph": "The researchers then had the idea of combining the two processes, intending to produce a more usable product besides Nitrogen. The reaction uses Ammonia (NH3) and Water (H2O) to produce Nitrite (NO2) and Hydrogen (H2). In this case, the yield of hydrogen doubled and the produced nitrite can be processed into fertilizer."
             },
             {
                 "image": "https://static.wixstatic.com/media/b6d17b_8cf48cc7c9e7440a8496872bce14edda~mv2.png"
             },
             {
                 "header": "Energy Requirements",
-                "paragragh": "One challenge researchers faced was finding a catalyst that matched their needs. One issue was due to the reactant NH3, which has a higher tendency to become nitrogen than nitrite. They experimented with multi-metal catalysts and showed success, leading to 87% converting into nitrite. With further developments and implementation, this process can revolutionize how we approach these chemical processes."
+                "paragraph": "One challenge researchers faced was finding a catalyst that matched their needs. One issue was due to the reactant NH3, which has a higher tendency to become nitrogen than nitrite. They experimented with multi-metal catalysts and showed success, leading to 87% converting into nitrite. With further developments and implementation, this process can revolutionize how we approach these chemical processes."
             }
         ],
         "citations": [
@@ -217,14 +217,14 @@
         "content": [
             {
                 "header": "Introduction to PFAS",
-                "paragragh": "As consumer and industrial products roll into the market, they are often advertised as completely safe or organic but these statements should be taken with a grain of salt. In the race for ensuring consumer convenience, consumer protection takes a back seat. A noteworthy example of this phenomenon is the incorporation of PFAS, a class of carcinogenic compounds, into household products such as nonstick cookware, stain-resistant carpets and clothing, and firefighting foam. PFAS, or Perflouroalkyl and Polyfluoroalkyl Substances, are known as “forever chemicals” because of their peculiar resistance to degradation. This is caused by PFAS’ strong carbon-fluorine covalent bond; carbon and fluorine’s large electronegativity difference results in their bond expressing partial ionic character and higher bond strength. Further alarming is the fact that, according to a survey by Sapio Research, 80% of consumers are not familiar with “forever chemicals” and the term PFAS, nor are they aware of the health risks of the compounds"
+                "paragraph": "As consumer and industrial products roll into the market, they are often advertised as completely safe or organic but these statements should be taken with a grain of salt. In the race for ensuring consumer convenience, consumer protection takes a back seat. A noteworthy example of this phenomenon is the incorporation of PFAS, a class of carcinogenic compounds, into household products such as nonstick cookware, stain-resistant carpets and clothing, and firefighting foam. PFAS, or Perflouroalkyl and Polyfluoroalkyl Substances, are known as “forever chemicals” because of their peculiar resistance to degradation. This is caused by PFAS’ strong carbon-fluorine covalent bond; carbon and fluorine’s large electronegativity difference results in their bond expressing partial ionic character and higher bond strength. Further alarming is the fact that, according to a survey by Sapio Research, 80% of consumers are not familiar with “forever chemicals” and the term PFAS, nor are they aware of the health risks of the compounds"
             },
             {
-                "paragragh": "Unfortunately, PFAS is widespread and human exposure to the substance is incredibly common since it can be consumed via contaminated water, food, or air. For instance, PFAS can be released from the surface of non-stick pans if cooking at high temperatures. One report by the Centers for Disease Control and Prevention, using data from the National Health and Nutrition Examination Survey (NHANES), found PFAS in the blood of 97% of Americans. Presently, PFAS is spreading exponentially after the products it was in are discarded, PFAS inevitably leaks into the environment, contaminating groundwater."
+                "paragraph": "Unfortunately, PFAS is widespread and human exposure to the substance is incredibly common since it can be consumed via contaminated water, food, or air. For instance, PFAS can be released from the surface of non-stick pans if cooking at high temperatures. One report by the Centers for Disease Control and Prevention, using data from the National Health and Nutrition Examination Survey (NHANES), found PFAS in the blood of 97% of Americans. Presently, PFAS is spreading exponentially after the products it was in are discarded, PFAS inevitably leaks into the environment, contaminating groundwater."
             },
             {
                 "header": "New Research and Future Prospects",
-                "paragragh": "Though, not all hope is lost. A University of California in Riverside (UCR) Research Team have discovered that microorganisms of the genus Acetobacterium, common in wastewater environments, can cleave the C-F chemical bonds of PFAS, effectively destroying the substance. However, the bacteria only seemed capable of performing this miracle on unsaturated PFAS compounds with double carbon-carbon bonds. This research is revolutionary because it advances the search for low-cost water treatment options and for new versions of the bacterium-converted enzyme to fight a variety of PFAS compounds. After all, PFAS are part of a group of 15,000 synthetic chemicals, according to a chemicals database maintained by the U.S. Environmental Protection Agency."
+                "paragraph": "Though, not all hope is lost. A University of California in Riverside (UCR) Research Team have discovered that microorganisms of the genus Acetobacterium, common in wastewater environments, can cleave the C-F chemical bonds of PFAS, effectively destroying the substance. However, the bacteria only seemed capable of performing this miracle on unsaturated PFAS compounds with double carbon-carbon bonds. This research is revolutionary because it advances the search for low-cost water treatment options and for new versions of the bacterium-converted enzyme to fight a variety of PFAS compounds. After all, PFAS are part of a group of 15,000 synthetic chemicals, according to a chemicals database maintained by the U.S. Environmental Protection Agency."
             },
             {
                 "image": "https://static.wixstatic.com/media/691f68_6d0555ca024048528f33dd29ad940b79~mv2.jpg"
@@ -250,5 +250,617 @@
                 "citation": "Stiff, Nicole. “PFAS Facts | FAYPWC.COM.” Www.faypwc.com, 15 Mar. 2023, www.faypwc.com/pfas-facts/."
             }
         ]
-    }
+    },
+    {
+        "id": 6,
+        "title": "Breaking Down the Myths: Common Misconceptions About Vaccines",
+        "blurb": "Vaccines have always been a beacon of hope in the realm of medicine, protecting us from diseases that once ravaged populations. Yet, despite their proven effectiveness, myths and misconceptions about vaccines continue to spread, often causing unnecessary fear and confusion.",
+        "author": "Ishwari Veerkar",
+        "date": "Jul 24, 2024",
+        "cover": "https://www.jou.ufl.edu/wp-content/uploads/2021/02/vaccine.jpg",
+        "content": [
+            {
+                "paragraph": "Vaccines have always been a beacon of hope in the realm of medicine, protecting us from diseases that once ravaged populations. The recent COVID-19 pandemic brought vaccines into the spotlight like never before, highlighting their importance and sparking widespread conversations and debates. We have all witnessed firsthand how vaccines have become a critical tool in our fight against COVID-19. Yet, despite their proven effectiveness, myths and misconceptions about vaccines continue to spread, often causing unnecessary fear and confusion."
+            },
+            {
+                "header": "Myth 1: Vaccines cause Autism",
+                "paragraph": "One of the most widespread and harmful myths about vaccines is that they cause autism. This misconception originated from a now-debunked study published in 1998 that falsely linked the MMR (measles, mumps, and rubella) vaccine to autism. However the following was proved to be flawed due to bad science."
+            },
+            {
+                "paragraph": "There has been no significant evidence that connects autism to vaccines. Organizations such as the CDC and World Health Organization have carefully monitored vaccines and have shown how the advantages of the vaccine greatly outweigh the negatives. Vaccine reactions such as fever or sore arm are common, but this is always being monitored. These vaccines have gone through rigorous testing and have ensured they do not cause autism."
+            },
+            {
+                "header": "Myth 2: Natural Immunity is Better Than Vaccine-Induced Immunity",
+                "paragraph": "While it's true that recovering from an illness can provide natural immunity, this comes with significant risks. Diseases like measles, whooping cough, and the flu can cause severe complications, long-term health issues, and even death. Vaccines, on the other hand, provide immunity without the need to suffer through the disease. Vaccines are a safer and more reliable way to build immunity."
+            },
+            {
+                "paragraph": "Think about the COVID-19 pandemic. Natural infection can lead to severe illness, long-term symptoms (often referred to as “long COVID”), or worse. The COVID-19 vaccines provide a way to build immunity without facing these potentially life-threatening risks. Choosing vaccination is choosing a safer path to immunity for yourself and your community."
+            },
+            {
+                "image": "https://th.bing.com/th/id/OIP.QtF2-9TXONJGUVFQsFXCXgHaEo?rs=1&pid=ImgDetMain"
+            },
+            {
+                "header": "Myth 3: Vaccines Contain Harmful Ingredients",
+                "paragraph": "Some people worry about the ingredients in vaccines, such as preservatives and adjuvants (substances that enhance the immune response). The truth is, the ingredients in vaccines are present in very small amounts and have been thoroughly tested for safety. Toxicology is completely dependent upon the idea that the dose makes the poison, therefore research scientists are always on the lookout for the perfect dose response by conducting numerous trials and tests. The doses in vaccines are always increasingly lower than the amount we are exposed to in our daily lives."
+            },
+            {
+                "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/08-29-2019/t_01f48f7194c7461689896401efba2580_name_Vaccines_EP1_Thumbnail_16_9_v03.png&w=1440"
+            },
+            {
+                "header": "Myth 4: Healthy People Don't Need Vaccines",
+                "paragraph": "Some people believe that if they are healthy, they don't need vaccines. However, vaccines are essential for everyone, not just those at high risk for certain diseases. Vaccination helps protect the community by achieving herd immunity, which occurs when a large portion of the population is immune to a disease, making it difficult for the disease to spread. This is especially important for protecting vulnerable individuals, such as infants, the elderly, and those with weakened immune systems, who cannot receive certain vaccines or may not respond well to them."
+            },
+            {
+                "paragraph": "Understanding the facts about vaccines is crucial for making informed decisions about your health. Vaccines are safe, effective, and a vital part of preventing disease and promoting public health. By breaking down these common misconceptions, we can ensure that everyone has accurate information and can contribute to a healthier, safer community. Remember, vaccines don't just protect you—they protect everyone around you. So, stay informed, ask questions, and make sure you're up-to-date on your vaccinations. Keep in mind if you have any questions, always reach out to a healthcare provider, they really know what’s best!"
+            }
+        ]
+    },
+    {
+        "title": "Tzeild: Preventing Type 1 Diabetes",
+        "id": 7,
+        "author": "Sara Deo",
+        "date": "Jul 26th, 2024",
+        "blurb": "Type 1 diabetes, also known as juvenile diabetes or insulin-dependent diabetes, is a chronic condition where the pancreas makes very little or no insulin. Recently, a preventative vaccine has emerged, created by Kevan Herold, MD. The medication formally known as teplizumab delays the onset of stage 3 of the condition by an average of 2 years and sometimes by more than a decade.",
+        "cover": "https://i.ytimg.com/vi/equGgBtIVz0/maxresdefault.jpg",
+        "content": [
+            {
+                "header": "What is Type 1 Diabetes",
+                "paragraph": "Type 1 diabetes, also known as juvenile diabetes or insulin-dependent diabetes, is a chronic condition where the pancreas makes very little or no insulin. Insulin is a hormone the body uses to allow sugar (glucose) to enter cells and produce energy. It can be brought on by various factors such as genetics and some viruses. Although type 1 diabetes usually appears during childhood or adolescence, it can develop in adults. There are three stages of Type 1 diabetes. "
+            },
+            {
+                "list": [
+                    "Stage 1 - at least two diabetes-related autoantibodies are positive and the person has normal blood sugar levels.",
+                    "Stage 2 - two or more diabetes-related autoantibodies are positive. Individuals typically do not have symptoms but do have abnormal blood sugar levels as the beta cell function declines.",
+                    "Stage 3 - individuals develop hyperglycemia and require treatment with insulin, regular glucose monitoring, and attention to nutrition and activity levels."
+                ]
+            },
+            {
+                "paragraph": "Once someone has been found to have Stage 1 Type 1 diabetes, the disease is certain to progress to Stage 3 over the lifetime."
+            },
+            {
+                "image": "https://ssl.adam.com/graphics/images/en/19212.jpg"
+            },
+            {
+                "header": "Symptoms and Complications of Type 1 Diabetes",
+                "paragraph": "There are various symptoms of type 1 diabetes. Some symptoms may appear very suddenly; these include:"
+            },
+            {
+                "list": [
+                    "Feeling more thirsty than usual",
+                    "Feeling very hungry",
+                    "Losing weight without trying",
+                    "Feeling irritable or having other mood changes",
+                    "feeling tired and weak",
+                    "Having blurry vision"
+                ]
+            },
+            {
+                "paragraph": "Although type 1 diabetes can be controlled using a glucose monitor and other innovations, many complications can occur. Over time, type 1 diabetes complications can affect major organs in the body. These organs include the heart, blood vessels, nerves, eyes, and kidneys. Diabetes complications can lead to disabilities and even threaten life. Some complications include heart and blood vessel disease, nerve damage (neuropathy), kidney damage (nephropathy), skin and mouth conditions, and more. "
+            },
+            {
+                "header": "Tzeild",
+                "paragraph": "Since 1922, when insulin was discovered, many have tried to create cures or medication to treat type 1 diabetes but were to no avail. Finally, a preventative vaccine has emerged, created by Kevan Herold, MD, a principal investigator of the drug and an immunologist at Yale Medicine in New Haven. The medication formally known as teplizumab delays the onset of stage 3 of the condition by an average of 2 years and sometimes by more than a decade. The drug is approved for adults and children ages 8 and older with Stage 2 Type 1 diabetes. Delaying the beginning of Stage 3 delays the need for daily insulin injections, as well as the potential disease hurdle of Type 1 diabetes for months or even years."
+            }, 
+            {
+                "image": "https://www.pmfarma.com/noticias/noticias/50808/image/tzield%20diabetes%20teplizumab%20fda.jpg "
+            },
+            {
+                "header": "The Science Behind the Study",
+                "paragraph": "There are certain requirements to be eligible for Tzield. Individuals must have at least two positive pancreatic beta cell autoantibodies and dysglycemia which is measured by fasting glucose or an oral glucose tolerance test. It is administered through an intravenous infusion once daily for 14 days. The drug attaches to certain immune cells which delays the progression of stage 3 diabetes. In a randomized clinical trial, 44 people with stage 2 type 1 diabetes received Tzield, while 32 received a placebo. Those who received Tzield did not reach stage 3 for an average of four years, while those receiving the placebo were diagnosed with stage 3 after an average of 2 years. While there are side effects for Tzield including rashes, headaches, leukopenia, and more, it is helping millions of people curb the possibility of a difficult life due to stage 3 type 1 diabetes."
+            },
+            {
+                "image": "https://t1dexchange.org/wp-content/uploads/2022/12/delaying-type-1-diabetes-tzield.jpg"
+            },
+            {
+                "header": "Conclusion",
+                "paragraph": "Delaying stage 3 diabetes can truly allow patients to live fuller lives and spend time with their loved ones for much longer without suffering. It can give families more time to prepare for several diabetes medication tasks that are required. It can reduce the chances of various other complications such as kidney disease, cardiovascular diseases, neuropathy, and blindness. This medication is continuing to be tested and administered to several people around the world to curb the hurdles of stage 3 type 1 diabetes."
+            }
+        ],
+        "citations": [
+            {
+                "citation": "Heiser, T. (2023, November 30). Tzield may delay Stage 3 Type 1 diabetes in adults and children - Norton Healthcare Provider Louisville, Ky. Norton Healthcare Provider. https://nortonhealthcareprovider.com/news/tzield-adult-pediatric-t1d-patients/#:~:text=Tzield%20is%20administered%20by%20intravenous,Stage%203%20Type%201%20diabetes."
+            },
+            {
+                "citation": "Type 1 diabetes - Symptoms and causes - Mayo Clinic. (2024, March 27). Mayo Clinic. https://www.mayoclinic.org/diseases-conditions/type-1-diabetes/symptoms-causes/syc-20353011"
+            },
+            {
+                "citation": "Weiner, S. (2023, May 4). 5 medical advances that will change patient care. AAMC. https://www.aamc.org/news/5-medical-advances-will-change-patient-care"
+            }
+        ]
+    },
+    {
+        "title": "FDA Approves Blood Test for CRC",
+        "id": 8,
+        "author": "Anumeha Haldar",
+        "date": "Jul 30th, 2024",
+        "blurb": "Colorectal Cancer (CRC) is a cancer that affects the colon or rectum, but is quite difficult to detect because symptoms are not as apparent. While regular screening is recommended, the discomfort associated with regular screening tests such as colonoscopies causes individuals to avoid screening methods. Despite being treatable in earlier stages, it is the second predominant cause of cancer-related deaths. In order to increase screening amongst individuals, Guardant Health has released a new blood test that can detect DNA fragments shed by cancer cells and polyps.",
+        "cover": "https://info.guardanthealth.com/wp-content/uploads/240313-guardant-health-colon-cancer-blood-test-vl-1047a-043a71.webp",
+        "content": [
+            {
+                "header": "What is CRC?",
+                "paragraph": "Colorectal Cancer (CRC) is a cancer that affects the colon or rectum. Accounting for almost 10% of all cancer cases worldwide, it remains the third most common form of cancer and the second predominant cause of cancer-related deaths. This type of cancer is difficult to detect in earlier stages as symptoms are not as apparent. Hence, regular screening is recommended and various tests are offered such as stool tests, flexible sigmoidoscopy, colonoscopy, and CT colonography. Individuals primarily at risk are:"
+            },
+            {
+                "list": [
+                    "People older than 50 years.",
+                    "Family history of colorectal cancer or genetic conditions such as Lynch syndrome, familial adenomatous polyposis, or colorectal polyps.",
+                    "Personal history of colorectal cancer or a specific type of polyps.",
+                    "Inflammatory bowel diseases such as Crohn’s disease.",
+                    "Lifestyle choices such as obesity, smoking, excessive drinking, and more."
+                ]
+            },
+            {
+                "paragraph": "Individuals diagnosed with colorectal cancer have a couple of options for treatment such as surgery, radiotherapy, chemotherapy, targeted therapy, and immunotherapy. However, it is imperative to emphasize the role of regular screening. Since earlier stages of this cancer show no symptoms, it is harder to detect. Most importantly, the earlier CRC is found, the more treatable it is."
+            },
+            {
+                "image": "https://s32977.pcdn.co/wp-content/uploads/2020/04/23-Symptoms-of-Colorectal-Cancer-1.jpg"
+            },
+            {
+                "header": "What is Shield?",
+                "paragraph": "Guardant Health has developed a blood test called Shield, which can be used to detect colorectal cancer. Guardant Health cites that 3 in 4 individuals who die from CRC are not up to date with their screening. More importantly, they also cite that if CRC is detected at an early stage, the 5-year survival rate is 94%. However, once the cancer spreads to distant regions of the body, the 5-year survival rate dramatically drops to 14%. This blood test can aid in making screening more accessible to a larger population."
+            },
+            {
+                "paragraph": "Many people avoid regular screening methods because they are time-consuming and feel unpleasant. But Shield, through a simple blood draw, presents a non-invasive procedure that can detect alterations caused by colorectal cancer in the blood. The test has been available since 2022; however, laboratories have had to pay a self-pay price of $895. But Guardant expects that the Shield blood test will be covered by Medicare as it covers performance requirements."
+            },
+            {
+                "image": "https://th.bing.com/th?id=OIF.j8bMrS%2bc3TPQ5wb2VC7sSw&rs=1&pid=ImgDetMain"
+            },
+            {
+                "header": "How Does Shield Work?",
+                "paragraph": "Cancer cells and polyps shed DNA fragments, which the Shield test detects. First, it assesses the ctDNA, which refers to the DNA shed by the tumors. It also analyzes which genes are turned on/off through the entire genome and analyzes the size of the ctDNA fragment. Finally, it detects the expression of certain proteins which are associated with cancer. A culmination of all these results can indicate either normal signal or abnormal signal. In a study published by the New England Journal of Medicine, the test was found to have an 83% specificity rate, which indicates its accuracy in identifying people with the disease. The test has its limitations in that it only detected 13% of large polyps as opposed to the 95% detection rate by colonoscopies."
+            },
+            {
+                "image": "https://th.bing.com/th/id/OIF.uMFFtrvliYzjOS4gGJ5bTw?rs=1&pid=ImgDetMain"
+            },
+            {
+                "paragraph": "A committee that advises the FDA suggested approving the Shield test because, while there are many limitations such as its serious inability in prevention, the Shield blood test can signal people to get screened. Major inconveniences surrounding regular screening can prompt individuals to avoid it. For example, colonoscopies require fasting and the consumption of a laxative to cleanse the colon the day before. Accompanied with the required anesthesia during the procedure and most likely a day off work, many people avoid screening, putting them at risk of later detection. The hope presented by the Shield blood test is that more people will be prompted to get screened. CRC is responsible for the death of 53,000 individuals and through earlier detection, CRC is highly treatable. On July 29, 2024, the FDA approved Guardant Health’s Shield Blood Test."
+            }
+        ],
+        "citations": [
+            {
+                "citation": "CDC. “Screening for Colorectal Cancer.” Colorectal Cancer, 9 May 2024, www.cdc.gov/colorectal-cancer/screening/index.html."
+            },
+            {
+                "citation": "“Guardant Health.” Guardant Health, guardanthealth.com/wp-content/uploads/Guardant_Shield_FactSheet-1.pdf. Accessed 30 July 2024."
+            },
+            {
+                "citation": "“Https://Investors.guardanthealth.com/Press-Releases/Press-Releases/2024/Guardant-Healths-Shield-Blood-Test-Approved-By-FDA-As-a-Primary-Screening-Option-Clearing-Path-For-Medicare-Reimbursement-And-a-New-Era-of-Colorectal-Cancer-Screening/Default.aspx.” Guardant Health, 29 July 2024, investors.guardanthealth.com/press-releases/press-releases/2024/Guardant-Healths-Shield-Blood-Test-Approved-by-FDA-as-a-Primary-Screening-Option-Clearing-Path-for-Medicare-Reimbursement-and-a-New-Era-of-Colorectal-Cancer-Screening/default.aspx. Accessed 30 July 2024."
+            },
+            {
+                "citation": "Kolata, Gina. “F.D.A. Approves Blood Test for Colon Cancer Detection.” The New York Times, 29 July 2024, www.nytimes.com/2024/07/29/health/colon-cancer-blood-test-shield.html. Accessed 30 July 2024."
+            },
+            {
+                "citation": "Leo, Leroy. “Reuter.” Reuters, 29 July 2024, www.reuters.com/business/healthcare-pharmaceuticals/us-fda-approves-guardant-healths-blood-based-cancer-test-2024-07-29/. Accessed 30 July 2024."
+            },
+            {
+                "citation": "World Health Organization. “Colorectal Cancer.” World Health Organization, 11 July 2023, www.who.int/news-room/fact-sheets/detail/colorectal-cancer."
+            }
+        ]
+    },
+    {
+        "title": "A New Era In Disease Prediction",
+        "id": 9,
+        "author": "Faiza Shaik",
+        "date": "Jul 31st, 2024",
+        "blurb": "Proteins, the building blocks of life, have their own signatures that identify certain things about our health. A recent study on proteomic signatures, published in Nature Medicine, has revealed new promises of a future where a simple blood test could help doctors predict and prevent over 60 common and rare diseases before they even occur.",
+        "cover": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXf3X30cWIR-XN4rnJrXKrZ1IQ6NebEnKaD6RJ73sAb4cFv_Vgq7SmkoPVBlB_TVJF_J3D0UJJhvA9osiZ2uyowmC63uGPgGeCvfq4bf56zFt1FVD2vWQ9k1_RudMf5QJ_6LN-Zhw0X-4Sr38NzY0zKke43N?key=hfUhQyNN0gkLzZ_KM2u-yw",
+        "content": [
+            {
+                "header": "Unique Signatures",
+                "paragraph": "Each of us has our own unique signature, something that identifies us as us. In the same way, proteins, the building blocks of life, also have their own signatures that identify certain things about our health. A recent study on proteomic signatures, published in Nature Medicine, has revealed new promises of a future where a simple blood test could help doctors predict and prevent over 60 common and rare diseases before they even occur."
+            },
+            {
+                "image": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXdpETy8DGCpTkXDCUCiA9wY8m44WqxY1siuS_vN92sNQaPDEXH-nd_Ik5yk_h-C9qx4j9qyqmxw0035JUZG5Ndh37Xvlc6b8x-X0J2wUeT6sSlDMoyBfj1zkF_rj_4EmEXGQ9gjLGmoOTmXpQI1M414bKM?key=hfUhQyNN0gkLzZ_KM2u-yw"
+            },
+            {
+                "header": "Deciphering the Study",
+                "paragraph": "This group of researchers studied the data of nearly 42,000 individuals from the UK BioBank Pharma Proteomics Project, analyzing their blood plasma data to find possible protein indicators of 218 diseases in around three-fourths of the participants. Combining measurements of around 3000 plasma proteins with clinical information like age, sex, BMI, smoking status, alcohol consumption, and parental history, the researchers constructed sparse prediction models for the 10-year incidence of these diseases. And for 163 of the 218 diseases, detection of only five proteins predicted disease just as well as the traditional clinical methods, while for 67 diseases, the protein signatures of between 5-20 proteins were found to have significantly improved prediction compared to clinical models."
+            },
+            {
+                "paragraph": "In fact, the detection rate for the clinical model was 25% whereas the detection rate for the aforementioned 67 diseases was nearly double that, at 45.5%, with a 10% false positive. These 67 diseases ranged between common to rare, including multiple myeloma, pulmonary fibrosis, and celiac disease."
+            },
+            {
+                "image": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXeU8c-m4Fu9jiEr418E1kXl-HPQJiU7mrK3SkCE_8JV_T06U2uM5ANpL8BOauprR-8lrfHJDkO19SlhJTRlAQe_ACIy5Hmo8Eq1JuUYgdpGuiVeEu5kT_iabEZVvGvQ5KVw4t-cKuet9JLhJ4kIsLgOpvU?key=hfUhQyNN0gkLzZ_KM2u-yw"
+            },
+            {
+                "header": "Looking Towards the Future",
+                "paragraph": "This newfound efficiency of proteomic signatures in disease prediction demonstrates the further potential proteins have in the information they carry and insight they can give into our health that are not captured by traditional clinical methods. The possibility that such a small set of proteins can provide a wealth of valuable, life-altering information speaks volumes for their abilities and the practicality of shifting away from conventional methods like clinical information and standard assays."
+            },
+            {
+                "paragraph": "However, further research will still be needed to validate these findings in different ethnic populations and geographical regions and settle certain discrepancies, specifically in protein performance between men and women. Furthermore, larger and more specific samples will be needed to validate findings for rarer and more advanced diseases and more research will have to be done before practical application. Overall, this is just the beginning, and this study shows promise of far-reaching implications. A new chapter of disease prediction and prevention is opening, thanks to the power of proteins, the building blocks of life."
+            }
+        ],
+        "citations": [
+            {
+                "citation": "Bose, Dr. Priyom. “Proteomic Signatures Enhance Risk Prediction for Both Common and Rare Diseases.” News-Medical, AZoNetwork, 24 July 2024, www.news-medical.net/news/20240724/Proteomic-signatures-enhance-risk-prediction-for-both-common-and-rare-diseases.aspx."
+            },
+            {
+                "citation": "Carrasco-Zanini, Julia, et al. “Proteomic Signatures Improve Risk Prediction for Common and Rare Diseases.” Nature News, Nature Publishing Group, 22 July 2024, www.nature.com/articles/s41591-024-03142-z."
+            },
+            {
+                "citation": "Flynn, Hannah. “Blood Test May Detect ‘signatures’ to Predict Onset of 67 Diseases.” Edited by Jill Seladi-Schulman, Medical News Today, MediLexicon International, 29 July 2024, www.medicalnewstoday.com/articles/protein-signatures-single-blood-test-help-detect-over-60-conditions#Which-diseases-can-the-blood-test-predict?"
+            }
+        ]
+    },
+    {
+        "title": "PFA Skin Absorption",
+        "id": 10,
+        "author": "Subiksha Baskaran",
+        "date": "August 2nd, 2024",
+        "blurb": "Known as 'forever chemicals', per- and polyfluoroalkyl substances are ever-prevalent and have been linked to adverse health issues. Past studies and research have suggested skin absorption as a possible route of exposure, but were data sparse. However, recently, 17 PFAs that come in contact with skin were analyzed in a new study by Harrad, Oddný Ragnarsdóttir and Mohamed Abdallah.",
+        "cover": "https://static.wixstatic.com/media/b6d17b_2b5c35c7cbcb45a99e16fc8902f285fd~mv2.webp/v1/fill/w_292,h_219,al_c,q_90,enc_auto/b6d17b_2b5c35c7cbcb45a99e16fc8902f285fd~mv2.webp",
+        "content": [
+            {
+                "header": "PFA Presence",
+                "paragraph": "Known as 'forever chemicals', per- and polyfluoroalkyl substances are ever-prevalent and have been linked to adverse health issues. They are commonly found in various products, and have even been found in food and drinking water. Recent research indicates that some PFAs can also be absorbed through skin exposure to the chemicals. Environmental chemists from University of Birmingham in England found that PFAs exposed to 3-D human skin models could cross the skin barrier, with the possibility of traveling into the bloodstream."
+            },
+            {
+                "paragraph": "PFAs refer to a series of thousands of human-made chemical compounds which are known for their near unbreakable carbon-fluorine bonds, hence the 'forever' nickname. Since the 1940s, these compounds have been produced for products like nonstick pans and water-repellent fabrics. But research has shown that PFAs are difficult to degrade, prevalent in the environment, and harmful to human health. The U.S. Environmental Protection Agency set guidelines and limits in June 2022 due to alarming levels of PFAs in drinking water."
+            },
+            {
+                "image": "https://assets.nationbuilder.com/miamiwaterkeeper/pages/5397/attachments/original/1658243990/list-Products_Containing_PFAS.jpg?1658243990"
+            },
+            {
+                "header": "The Experiment",
+                "paragraph": "Past studies and research have suggested skin absorption as a possible route of exposure, but were data sparse. For example, one study found that a type of PFA could enter rat skin, but environmental chemist Stuart Harrad countered, stating that rat skin does not directly mimic that of a human."
+            },
+            {
+                "paragraph": "17 PFAs that come in contact with skin were analyzed in the new study by Harrad, Oddný Ragnarsdóttir, and Mohamed Abdallah. In the lab, they dissolved each PFA in methanol and applied 500 nanograms per square centimeter to lab-grown human epidermis cells for up to 36 hours."
+            },
+            {
+                "image": "https://mail.google.com/mail/u/3/?ui=2&ik=a484cc7423&attid=0.1&permmsgid=msg-f:1806248418188867991&th=1911155dce423997&view=fimg&realattid=f_lzc79dk81&disp=thd&attbid=ANGjdJ9OXgU4vQAuLPruPSix2Tbe0UNdXOLf-QuW_2rIL7AqvA3lDXfpgYIqHSacMqywLsws4pERx16nWwKPHgYAgAdkTo6Q9Dqd5T2wSQuS4y9GewOzEfci3D27G3E&ats=2524608000000&sz=w1860-h882"
+            },
+            {
+                "header": "The Results",
+                "paragraph": "For each compound, researchers analyzed the amount which crossed the skin barrier, was absorbed within the surface of the skin, and not absorbed. Researchers found that 11 PFAs out of the 17 were able to cross the skin barrier, with ones with 4-7 carbon atoms absorbing more easily. They concluded that there is no certainty that PFAs will enter the bloodstream, but they have been able to enter the skin."
+            },
+            {
+                "paragraph": "Real-life scenarios may not reflect the behavior shown in the study as environmental scientist at the University of Toronto, Miriam Diamond, notes. Skin is thinner in areas like the eyelids and thicker in places like the feet, which can lead to differences in absorption levels. Dosages used in the experiments were also higher than what an individual would be exposed to normally. Regardless, she urges the importance of being cautious of PFAs in clothing and personal care products, as prolonged contact is a source of exposure."
+            },
+            {
+                "image": "https://lirp.cdn-website.com/760d2a66/dms3rep/multi/opt/PFAS-DANGER+copy-1920w.jpg"
+            }
+        ],
+        "citations": [
+            {
+                "citation": "O. Ragnarsdóttir, M.A. Abdallah, and S. Harrad. Dermal bioavailability of perfluoroalkyl substances using in vitro 3D human skin equivalent models. Environment International. Volume 188, June 2024."
+            },
+            {
+                "citation": "O. Ragnarsdóttir, M.A. Abdallah, and S. Harrad. Dermal uptake: An important pathway of human exposure to perfluoroalkyl substances? Environmental Pollution. Vol. 307, August 15, 2022."
+            },
+            {
+                "citation": "Tsanni, Abdullahi. “Some ‘forever Chemicals’ May Be Absorbed through Our Skin.” Science News, 31 July 2024, www.sciencenews.org/article/forever-chemicals-pfas-skin."
+            }
+        ]
+    },
+    {
+        "title": "OpgD Enzyme and Plant Disease",
+        "id": 11,
+        "author": "Dhruhi Patel",
+        "date": "August 5th, 2024",
+        "blurb": "For decades, the Xanthomonas plant bacterium has wreaked havoc on crops but a promising new discovery has been made. A plant enzyme, OpgD, has been found to increase plant resistance to disease while dually preventing environmental contamination by chemical pesticides.",
+        "cover": "https://static.wixstatic.com/media/691f68_2cf686549ebe46cf9f07af74e6980429~mv2.png",
+        "content": [
+            {
+                "header": "Introduction",
+                "paragraph": "As climate change ravages the planet, food insecurity is on the rise in many underdeveloped and developing nations. Plant diseases, if left unchecked, can rapidly wipe out entire crop fields leaving both farmers and the local economy devastated. Therefore, it is pivotal that pathogens can be effectively eradicated through identification and removal before catastrophe strikes."
+            },
+            {
+                "header": "About Xanthomonas",
+                "paragraph": "One such pathogen is the Xanthomonas bacterial species. About twenty-seven subspecies of this bacterium are pathogenic to around four hundred plant species including staple crops such as sugar cane, beans, cassava, cabbage, banana, citrus, tomatoes, pepper, and rice. The Xanthomonas species operates in two phases: epiphytic and endophytic. In the epiphytic stage, it colonizes the surface of the plant using adhesion ligands and emits a biofilm to protect the bacteria from environmental stress factors. Then, in the endophytic stage, through the stomata, it makes its way to the vascular system, spreading throughout the plant. Current management practices raise concerns of ineffectiveness, environmental pesticide contamination, and antibiotic resistance problems."
+            },
+            {
+                "header": "The OpgD Enzyme's Role",
+                "paragraph": "A pivotal function of the Xanthomonas species is its utilization of α-1,6-cyclized β-1,2-glucohexadecaose (CβG16α) to suppress plant-defense mechanisms. In a recent breakthrough, a team of researchers led by Associate Professor Masahiro Nakajima from Tokyo University of Science found that XccOpgD, a glycoside hydrolase (GH186) found in X. campestris pv campestris, plays a pivotal role in the biosynthesis of CβG16α. Using X-ray crystallography, they discovered the enzyme’s specific catalytic mechanisms and substrate specificity. Particularly, XccOpgD uses an anomer-inverting transglycosylation mechanism. These insights are crucial in understanding structure-based drug targets as OpgD increases plant resistance to disease while preventing environmental impacts of chemical-based pesticides. Thus, this discovery leads mankind one step closer to addressing global sustainability challenges as a whole."
+            }
+        ],
+        "citations": [
+            {
+                "citation": "“Breakthrough in Plant Disease: New Enzyme Could Lead to Anti-Bacterial Pesticides.” ScienceDaily, www.sciencedaily.com/releases/2024/08/240801121853.htm. Accessed 3 Aug. 2024."
+            },
+            {
+                "citation": "“New Enzyme Could Lead to Anti-Bacterial Pesticides.” Food Manufacturing, 2024, www.foodmanufacturing.com/safety/news/22916562/new-enzyme-could-lead-to-antibacterial-pesticides. Accessed 3 Aug. 2024."
+            },
+            {
+                "citation": "Nakayinga, Ritah, et al. “Xanthomonas Bacteriophages: A Review of Their Biology and Biocontrol Applications in Agriculture.” BMC Microbiology, vol. 21, no. 1, 25 Oct. 2021, https://doi.org/10.1186/s12866-021-02351-7. Accessed 9 Nov. 2021."
+            },
+            {
+                "citation": "Ebrahim Osdaghi. “Xanthomonas Euvesicatoria Pv. Perforans (Bacterial Spot of Tomato).” CABI Compendium, 7 Jan. 2022, https://doi.org/10.1079/cabicompendium.108936. Accessed 3 Aug. 2024."
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "title": "The Gut-Brain Connection: How Your Stomach and Brain Communicate",
+        "date": "August 11th, 2024",
+        "blurb": " Ever felt those 'butterflies in your stomach' before a big test? That's not just a feeling—it's your gut and brain talking to each other! The gut, often called our 'second brain,' is home to millions of neurons and bacteria that do much more than digest your lunch.",
+        "author": "Ishwari Veerkar",
+        "cover": "https://domf5oio6qrcr.cloudfront.net/medialibrary/7162/31c8d043-6a6c-4210-9c91-03d8cd800534.jpg",
+        "content": [
+            {
+                "header": "Introduction: More Than Just Digestion",
+                "paragraph": "You’ve probably experienced the saying “butterflies in your stomach” before a big exam or felt your appetite disappear when you’re stressed. These reactions aren’t just in your head—they’re part of a fascinating relationship between your gut and your brain. This relationship, known as the “gut-brain connection,” is a key area of research in neuroscience and psychology, revealing just how closely linked our digestive system is to our mental health."
+            },
+            {
+                "header": "The Gut: Your body’s second brain",
+                "paragraph": "This little brain in the gut is called the enteric nervous system (ENS) which consists of more than 100 million nerve cells lining the entire gastrointestinal tract. Besides just helping with digestion, these neurons are responsible for communicating with your brain, dictating your emotions and your behavior."
+            },
+            {
+                "paragraph": "Even though this is called the little brain, the ENS isn’t capable of thought and is mostly responsible for digestion. The gut is home to trillions of bacteria and other microorganisms that help break down food, produce essential vitamins, and influence the production of neurotransmitters. For example, certain gut bacteria produce serotonin, a neurotransmitter that contributes to feelings of well-being and happiness."
+            },
+            {
+                "paragraph": "The balance of these microorganisms is crucial; an imbalance, often referred to as dysbiosis, has been linked to mental health issues like anxiety and depression. Research from John Hopkins University has shown that ENS may trigger emotional shifts in people suffering from irritable bowel syndrome, constipation, diarrhea, bloating or pain. This connection suggests that maintaining a healthy gut could be key to improving mental health."
+            },
+            {
+                "image": "https://tacanow.org/wp-content/uploads/2023/09/Gut-Brain-featured.png"
+            },
+            {
+                "header": "Maintaining a Healthy Gut-Stomach Connection",
+                "list": [
+                    "Balanced Diet: Eating a diet rich in fiber, fruits, vegetables, and fermented foods helps nourish your gut microbiota, supporting both digestion and mental health",
+                    "Regular Exercise: Physical activity promotes the release of endorphins, which can improve mood and reduce stress, while also benefiting gut health.",
+                    "Stress Management: Techniques such as mindfulness, meditation, and deep breathing can help reduce the negative impact of stress on your gut and brain.",
+                    "Adequate Sleep: Sleep is crucial for both mental and physical health. Poor sleep can disrupt gut function and negatively affect mood."
+                ]
+            },
+            {
+                "paragraph": "Researchers believe our brains are capable of communicating with each other, and therefore there is a possibility of therapies helping both brains. Gastroenterologists, who specialize in digestive conditions, can help with the second brain and sometimes may offer antidepressants to help with bowel syndromes as these medications can alleviate the symptoms by targeting the nerve cells within the gut. "
+            },
+            {
+                "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/04/20/32d54151-2b58-4566-a92b-21d9b3147293/thumbnail/1200x630/8f994ca2ba1de21ed60b8bd451e97c9b/gettyimages-544340831.jpg?v=0a0c17d349635d55704afd4e16e28fc6"
+            },
+            {
+                "header": "Conclusion",
+                "paragraph": "The gut-brain connection is a powerful example of how closely intertwined our physical and mental health are. By paying attention to this connection and taking steps to support both your gut and your brain, you can improve your overall well-being. As research continues to uncover more about how the digestive system could affect brain cognition, it’s clear that a healthy gut is essential for a healthy mind."
+            }
+        ],
+        "citations": [
+            {
+                "citation": "Harvard Health Publishing. “The Gut-Brain Connection.” Harvard Health, Harvard Health, 18 July 2023, www.health.harvard.edu/diseases-and-conditions/the-gut-brain-connection."
+            },
+            {
+                "citation": "Johns Hopkins Medicine. “The Brain-Gut Connection.” John Hopkins Medicine, 2019, www.hopkinsmedicine.org/health/wellness-and-prevention/the-brain-gut-connection.Cloudfront.net, 2024, domf5oio6qrcr.cloudfront.net/medialibrary/7162/31c8d043-6a6c-4210-9c91-03d8cd800534.jpg. Accessed 11 Aug. 2024."
+            },
+            {
+                "citation": "Evervitalnutrition.com, 2024, evervitalnutrition.com/wp-content/uploads/2023/03/Gut-Brain-Connection-EverVital.jpg. Accessed 11 Aug. 2024."
+            },
+            {
+                "citation": "Cbsnewsstatic.com, 2024, assets1.cbsnewsstatic.com/hub/i/r/2023/04/20/32d54151-2b58-4566-a92b-21d9b3147293/thumbnail/1200x630/8f994ca2ba1de21ed60b8bd451e97c9b/gettyimages-544340831.jpg?v=0a0c17d349635d55704afd4e16e28fc6. Accessed 11 Aug. 2024."
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "author": "Sara Deo",
+        "cover": "https://static.wixstatic.com/media/691f68_d1659b2ffb1242ecbbcd4914988ccfd8~mv2.jpg",
+        "title": "Nirsevimab: A New Hope for RSV",
+        "blurb": "Many might mistake a cough or a sneeze in the fall/winter as a common cold, but it could actually be a similar disease called RSV. While it has grown in popularity over the last few years, many such as infants and the elderly suffer from it severely, requiring hospitalization. A new vaccine, Nirsevmiab, shows great results at preventing the disease.",
+        "date": "August 14th, 2024",
+        "content": [
+            {
+                "header": "What is RSV?",
+                "paragraph": "RSV, respiratory syncytial virus, causes infections of the lungs and respiratory tract. It is so common that most children have been affected by the virus by the age of 2. It can also affect adults and older, healthy children. The symptoms are mild and typically mimic the common cold, including a congested or runny nose, dry caught, low-grade fever, sore throat, sneezing, and headaches. Self-care measures tend to be all that is needed to relieve any discomfort or symptoms."
+            },
+            {
+                "header": "Severely Affected Groups",
+                "paragraph": "However, as common as it is, RSV can also cause severe infection in some people, including babies 12 months and younger (infants), especially premature infants, older adults, people with heart and lung disease, or anyone with a weak immune system. The infection can spread to the lower respiratory tract and cause pneumonia or bronchiolitis (inflammation of the small airway passages entering the lungs). Some symptoms may include:"
+            },
+            {
+                "list": [
+                    "Fever",
+                    "Severe Cough",
+                    "Wheezing",
+                    "Rapid Breathing or Difficulty Breathing",
+                    "Bluish color of the skin due to lack of oxygen (cyanosis)"
+                ]
+            },
+            {
+                "paragraph": "While adults and the elderly can be severely affected by RSV, infants have the potential to suffer the most. Most children and adults recover in one to two weeks, although some might have repeated wheezing. The chances of a hospital stay may increase in premature infants or anyone with chronic heart or lung problems."
+            },
+            {
+                "header": "A Solution: Nirsevimab",
+                "paragraph": "A new study released in November 2023, showed that Nirsevimab, a long-acting monoclonal antibody product, was highly effective in protecting infants from hospitalizations associated with RSV. As RSV cases spiked in 2023, it was crucial to protect infants in their first RSV season by giving them Nirsevimab if the mother did not receive the maternal RSV vaccine during pregnancy. March 2024 was the first time Nirsevimab was available to protect infants from severe RSV."
+            },
+            {
+                "header": "How it Works",
+                "paragraph": "The study observed 699 infants from October 2023 to February 2024 using data from the CDC’s New Vaccine Surveillance Network, a population-based surveillance program that monitors respiratory viruses to examine immunization effectiveness. The results showed that Nirsevimab was 90% effective at preventing RSV-related hospitalizations in infants during the first RSV season. Although the Nirsevimab effectiveness may be lower during a full RSV season, (October through March), with its increasing availability and growth, the CDC will be able to tackle this issue. Nirsevimab is a monumental advancement for infants chronically suffering from the tolls of RSV. It is preventing hundreds of individuals from being hospitalized, leading to a prolonged quality of life."
+            }
+        ],
+        "citations": [
+            {
+                "citation": "CDC Newsroom. (2016, January 1). CDC. https://www.cdc.gov/media/releases/2024/s0307-rsv-immunization.html"
+            },
+            {
+                "citation": "Respiratory syncytial virus (RSV) - Symptoms & causes - Mayo Clinic. (2023, October 4). Mayo Clinic. https://www.mayoclinic.org/diseases-conditions/respiratory-syncytial-virus/symptoms-causes/syc-20353098"
+            },
+            {
+                "citation": "RSV research: Nirsevimab 80% effective against hospitalization. (2024, June 7). CIDRAP. https://www.cidrap.umn.edu/respiratory-syncytial-virus-rsv/rsv-research-nirsevimab-80-effective-against-hospitalization"
+            }            
+        ]
+    },
+    {
+        "id": 14,
+        "date": "August 16th, 2024",
+        "title": "FDA Approves First Epinephrine Nasal Spray",
+        "author": "Anumeha Haldar",
+        "cover": "https://media.snacksafely.com/wp-content/uploads/2023/09/ARS-FDA.jpg",
+        "blurb": "Up till now, epinephrine injections are the only known way to treat severe allergic reactions, known as anaphylaxis. On August 9th, Neffy, made by ARS Pharmaceuticals, was approved by the FDA and is the first epinephrine nasal spray that can type 1 allergic reactions and anaphylaxis.",
+        "content": [
+            {
+                "header": "What is Neffy?",
+                "paragraph": "On August 9th, Neffy, which was made by ARS Pharmaceuticals, is an epinephrine nasal spray that can be used as an emergency medication to treat Type 1 allergic reactions as well as life threatening allergic reactions. Neffy is a huge feat in reducing barriers in treating severe allergic reactions. Patients suffering from anaphylaxis and severe allergic reactions could only use an Epipen. Dr. Kelly Stone, associate director of the Division of Pulmonology, Allergy and Critical Care in the FDA’s Center for Drug Evaluation and Research, said “Anaphylaxis is life-threatening and some people, particularly children, may delay or avoid treatment due to fear of injections,”." 
+            },
+            {
+                "image": "https://philstarlife.s3.ap-east-1.amazonaws.com/pslife_photos/Nick/Neffy.jpg"
+            },
+            {
+                "header": "What are Type 1 Allergic Reactions? Anaphylaxis?",
+                "paragraph": "An allergic reaction occurs when an individuals’ immune system reacts to the presence of a certain allergen, a normally harmless substance. Generally, the immune system defends the body against antigens. However, when certain individuals are exposed to allergens, the immune system can overreact. In essence, the body created immunoglobulin E when in contact with a specific allergen. The IgE binds to the allergy cells. When the IgEs find allergens, they take the allergen to the allergy cells. When they attach to a special receptor, the allergy cell releases histamine which causes allergy symptoms. "
+            },
+            {
+                "paragraph": "Type 1 reactions are the most widely recognized form of reaction. During a type 1 allergic reaction, the body reacts to the allergen causing effects in organ systems and swelling up individuals’ airways. Type 1 hypersensitivity reactions include food allergies, pollen-food allergies, latex allergies, etc. "
+            },
+            {
+                "paragraph": "A severe allergic reaction is known as anaphylaxis. Anaphylaxis can be broken down into 4 stages:"
+            },
+            {
+                "list": [
+                    "Stage 1 : Mild - skin rash, redness, itching, hives.",
+                    "Stage 2 : Moderate - spreading skin rash/hives, mild swelling in lips/tongue.",
+                    "Stage 3 : Severe - difficulty breathing, extensive swelling, weak pulse, dizziness; in essence, the person is experiencing anaphylactic shock.",
+                    "Stage 4 : Life-threatening - losing consciousness, unable to breathe, inadequate blood flow, needs urgent medical attention."
+                ]
+            },
+            {
+                "paragraph": "The only way to treat anaphylaxis is through epinephrine which can be injected in the thigh through an Epipen. However, Neffy provides an alternative solution."
+            },
+            {
+                "image": "https://i.pinimg.com/originals/4b/b1/61/4bb161168fa3ad2556957ddc30d4cc8a.png"
+            },
+            {
+                "header": "How does Neffy work?",
+                "paragraph": "Often, patients suffering from anaphylaxis and severe allergic reactions could only use an Epipen. Now, Neffy presents a pain-free, accessible, easy-to-carry, and needle-free option for patients. Neffy incorporates epinephrine, which is the only treatment for anaphylaxis. While antihistamines treat only a few systems, epinephrine can treat life-threatening reactions. Aforementioned, common symptoms of anaphylaxis is throat swelling, difficulty in breathing, drop in blood pressure, etc. Epinephrine, also known as adrenaline, can cause the heart to pump faster, cause deeper and faster breathing, and dilate the individual’s airways. Neffy also uses dodecyl maltoside, which is already a FDA-approved technology licensed from Neurelis. In essence, it enhances absorption through mucous membranes. Another FDA-approved technology that Neffy uses is the sprayer device, which is sold by Aptar Pharma, and used in Narcan nasal sprays."
+            },
+            {
+                "paragraph": "The approval of Neffy was based on four studies in 175 adults, without anaphylaxis.The study observed the epinephrine concentrations upon applying Neffy or approved epinephrine injections. Since results showed similar epinephrine blood concentrations and Neffy demonstrated similar increases in blood pressure and heart rate as epipens, the FDA approved the treatment."
+            },
+            {
+                "paragraph": "Similar to epipens, Neffy is a 2 mg single dose nasal spray that can be applied into one nostril in adults and children who weigh at least 66 pounds. If improvement is not eminent or symptoms worsen, a second dose should be applied. It is crucial to note that certain nasal conditions such as nasal polyps or history of nasal surgery can affect the absorption of Neffy. Also, Neffy comes with a warning of use for individuals with coexisting conditions and allergic reactions associated with sulfite."
+            },
+            {
+                "image": "https://www.rp-tr.com/wp-content/uploads/2021/06/Front.jpg"
+            }
+        ],
+        "citations": [
+            {
+                "citation": "“Allergies Explained | DermNet NZ.” Dermnetnz.org, dermnetnz.org/topics/allergies-explained."
+            },
+            {
+                "citation": "“ARS Pharmaceuticals Receives FDA Approval of Neffy® (Epinephrine Nasal Spray), the First and Only Needle-Free Treatment for Type I Allergic Reactions, Including Anaphylaxis.” ARS Pharmaceuticals, 9 Aug. 2024, ir.ars-pharma.com/news-releases/news-release-details/ars-pharmaceuticals-receives-fda-approval-Neffyr-epinephrine. Accessed 15 Aug. 2024."
+            },
+            {
+                "citation": "Chipps, Bradley. “What Is Epinephrine? | Allergy & Asthma Network.” Allergy & Asthma Network, 31 Aug. 2022, allergyasthmanetwork.org/anaphylaxis/what-is-epinephrine/."
+            },
+            {
+                "citation": "Cleveland Clinic. “Allergies: Symptoms, Reaction, Treatment & Management.” Cleveland Clinic, 21 Dec. 2022, my.clevelandclinic.org/health/diseases/8610-allergies.---. “Anaphylaxis: Symptoms & Treatment.” Cleveland Clinic, 13 Jan. 2021, my.clevelandclinic.org/health/diseases/8619-anaphylaxis."
+            },
+            {
+                "citation": "DELVES.PETER. “Overview of Allergic Reactions.” Merck Manuals Consumer Version, Merck Manuals, 2018, www.merckmanuals.com/home/immune-disorders/allergic-reactions-and-other-hypersensitivity-disorders/overview-of-allergic-reactions."
+            },
+            {
+                "citation": "“FDA Declines to Approve Neffy Epinephrine Nasal Spray for Severe Allergic Reactions - CBS News.” Www.cbsnews.com, 20 Sept. 2023, www.cbsnews.com/news/fda-rejects-Neffy-epinephrine-nasal-spray-needle-free-epipen-allergic-reactions/."
+            },
+            {
+                "citation": "https://www.facebook.com/Drugscom. “What Is Neffy (Nasal Epinephrine)?” Drugs.com, Drugs.com, 2024, www.drugs.com/medical-answers/question--Neffy-3573771/. Accessed 16 Aug. 2024."
+            },
+            {
+                "citation": "Office. “FDA Approves First Nasal Spray for Treatment of Anaphylaxis.” U.S. Food and Drug Administration, 2024, www.fda.gov/news-events/press-announcements/fda-approves-first-nasal-spray-treatment-anaphylaxis."
+            },
+            {
+                "citation": "Tirrell, Meg. “First Nasal Spray Epinephrine Drug for Emergency Allergic Reactions Gets FDA Approval.” CNN, CNN, 9 Aug. 2024, www.cnn.com/2024/08/09/health/Neffy-nasal-spray-allergic-reactions/index.html. Accessed 16 Aug. 2024."
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "blurb": "Erythritol, a popular sugar alcohol found in many artificial sweeteners, hasbeen found in a recent study to be linked to dramatically increased blood levels and blood clotting. What does this mean for our health and what concerns does it raise?",
+        "title": "Erythritol: A Sweet Illusion",
+        "author": "Faiza Shaik",
+        "cover": "https://nypost.com/wp-content/uploads/sites/2/2024/08/healthy-sugar-substitute-erythritol-gray-87241925.jpg?quality=75&strip=all&w=1024",
+        "date": "August 19th, 2024",
+        "content": [
+            {
+                "header": "Sweet with a Bitter Aftertaste",
+                "paragraph": "Since as early as the 1800s, people have been looking for sweet alternatives to replace sugar in their diets, a way to satisfy their sweet tooth without worrying about the calorie count. Sugar alcohols are a popular alternative, especially erythritol, being an almost perfect substitute for normal glucose. However, a recent study by researchers at Cleveland Clinic published in Arteriosclerosis, Thrombosis, and Vascular Biology reveals a troubling connection between erythritol and cardiovascular issues."
+            },
+            {
+                "image": "https://www.capecrystalbrands.com/cdn/shop/articles/Erythritol-1.jpg?v=1723737251"
+            },
+            {
+                "header": "The Bitter Truth",
+                "paragraph": "The study builds on the team’s previous one from 2023 published in Nature Magazine that suggested that cardiac patients with high erythritol levels were twice as likely to experience a major cardiac event in the next three years. Their recent study similarly raises concerns that erythritol may increase the risk of blood clotting. The possibility that erythritol increases blood clotting is especially dangerous as it can block or restrict the movement of blood and oxygen throughout the body, which is vital to survival. It can also lead to major cardiovascular problems like heart attacks and strokes."
+            },
+            {
+                "paragraph": "The researchers studied 20 healthy volunteers with no cardiovascular problems or medical history of bleeding disorders, both female and male, averaging around 30 years old. Half of the participants drank water mixed with 30 grams of regular sugar, or glucose, while the other ten drank water mixed with 30 grams of erythritol. After examining the results of blood tests taken before and after consumption, they found that the participants who consumed erythritol experienced blood levels over 1000 times higher as well as significant increase in platelet activity, which increases risk of blood clotting while no changes were observed in the participants that consumed glucose."
+            },
+            {
+                "image": "https://www.okheart.com/sites/default/files/field/image/how-blood-clots-affect-the-body-oklahoma-heart-hospital.jpg"
+            },
+            {
+                "header": "Is it still safe?",
+                "paragraph": "Although this study is significantly troubling, erythritol is still classified by the US Food and Drug Administration (FDA) as generally recognized as safe (or GRAS). However, despite this status, it is still cautioned by many experts to still be careful with erythritol consumption. One of the primary concerns is that most people tend to consume larger amounts of these artificial or low-calorie sweeteners than they would regular sugar, under the perception that they are healthier alternatives and therefore can be used more liberally. "
+            },
+            {
+                "header": "Significance and Impact",
+                "paragraph": "This new information is especially important for us to know because of the impact it may have. It is undoubtedly a public health concern, especially because those who consume these low-calorie alternatives are typically those who are being cautious of their sugar intake for health reasons. These people may be at the greatest risk for experiencing heart attacks or strokes, and yet when they reach for the supposedly healthier alternative, it may be worse for them."
+            },
+            {
+                "image": " https://domf5oio6qrcr.cloudfront.net/medialibrary/10926/iStock-1037859810.jpg"
+            },
+            {
+                "paragraph": "Additionally, other artificial sweeteners have also been found to have related health risks, specifically xylitol, revealing a possibly deeper and more troubling connection between these alternatives and cardiovascular issues. Even more worrisome is that aside from just sweeteners, erythritol can be found in sugar-free gum, energy bars, some diet sodas, and protein shakes, among others. We unknowingly consume much more erythritol than we know every day, the average of which was around 30 grams as of the early 2000s-2010s."
+            },
+            {
+                "header": "Informed Choices",
+                "paragraph": "As the popularity of these artificial sweeteners continues to rise, it grows increasingly important that consumers are aware of the potential health risks that come with them. This study only contributes to the growing amount of research that proves that the sweeteners we use to be healthier may not be doing that. However, it’s still important that further research is conducted, and the team says they will continue to further reassess the safety of these alternative sugar substitutes, including studying the effect that they have on at-risk patients. By staying up-to-date on the latest research, we can make more informed choices and ensure our own health and safety."
+            }
+        ],
+        "citations": [
+            {
+                "citation": "Pelc, Corrie. “Erythritol: Common Low-Calorie Sweetener May Raise Risk of Blood Clots.” Edited by Kelsey Costa, Medical News Today, MediLexicon International, 13 Aug. 2024, www.medicalnewstoday.com/articles/popular-low-calorie-sweetener-sugar-may-raise-blood-clotting-risk#Is-there-a-healthy-sugar-substitute?"
+            },
+            {
+                "citation": "Costa, Kelsey. “Artificial Sweetener Erythritol May Raise the Risk of Blood Clots.” Edited by Andrea Rice and Jennifer Chesak, Healthline, Healthline Media, 13 Aug. 2024, www.healthline.com/health-news/artificial-sweetener-erythritol-blood-clot-risk."
+            }, 
+            {
+                "citation": "Cleveland Clinic. “Consuming Foods with Erythritol Increases Risk of Cardiovascular Events, Study Shows.” News-Medical, 8 Aug. 2024, www.news-medical.net/news/20240808/Consuming-foods-with-erythritol-increases-risk-of-cardiovascular-events-study-shows.aspx."
+            },
+            {
+                "citation": "Witkowski, Marco, et al. “Ingestion of the Non-Nutritive Sweetener Erythritol, but Not Glucose, Enhances Platelet Reactivity and Thrombosis Potential in Healthy Volunteers.” AHA Journals, American Heart Association, 8 Aug. 2024, www.ahajournals.org/doi/10.1161/ATVBAHA.124.321019."
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "title": "Internal Combustion Engine",
+        "blurb": "Car engines are impressive feats of engineering, chemistry and physics, with more than 250 million highway transportation vehicles utilizing them in the USA.",
+        "cover": "https://static.wixstatic.com/media/691f68_2179cf150e6b4acc924e82e9ee1c3058~mv2.png",
+        "author": "Subiksha Baskaran",
+        "date": "August 21st, 2024",
+        "content": [
+            {
+                "paragraph": "Car engines are impressive feats of engineering, chemistry and physics, with more than 250 million highway transportation vehicles utilizing them in the US. The internal combustion engine process includes both the ignition and combustion of the fuel within it, typically gasoline or diesel. The mechanism consists of a fixed cylinder and a moving piston, which is pushed by the expanding combustion gasses and drives the movement of the car wheels."
+            },
+            {
+                "paragraph": "There are two kinds of internal combustion engines, one that involves spark ignition for gasoline and one that involves compression ignition for diesel. In the spark ignition, the fuel is mixed with air and ignited by a spark, causing the combustion. However in a diesel engine, only air is compressed in the engine, which then ignites once fuel is added."
+            },
+            {
+                "header": "Drawbacks",
+                "paragraph": "However, there are various drawbacks to this design. One is its inefficiencies due to energy being lost as heat instead of powering the car, operating at a max 50% thermal efficiency at max. Complete combustion is also difficult to achieve with the right balance of fuel and air, with too much of either component making it wasteful."
+            },
+            {
+                "image": "https://static.wixstatic.com/media/691f68_d631e066910c44e890bf9de4d40afc5e~mv2.jpeg"
+            },
+            {
+                "paragraph": "Incomplete combustion also results in waste gas, a series of hydrocarbons and nitrogen oxides, which cause acid rain and air pollution. The International Energy Agency estimates that this waste accounts for about a quarter of global CO2 emissions, with three-quarters coming from road traffic. "
+            },
+            {
+                "header": "Improvement",
+                "paragraph": "Over the last 30 years, various research and development has helped to reduce these engine emissions to comply with EPA standards. They’ve also become more efficient and higher-performing. Other alternatives have been developed too, in the form of electric battery-powered vehicles. Hopefully with these developments and further improvements, transportation can become more energy efficient and eco friendly."
+            }
+        ],
+        "citations": [
+            {
+                "citation": "Admin. “Four Stroke Engine – Parts, Operation & Comparison.” BYJUS, BYJU’S, 9 Dec. 2022, byjus.com/physics/four-stroke-engine/."
+            },
+            {
+                "citation": "Chapman, Kit. “How Car Engines Work.” RSC Education, RSC Education, 29 July 2024, edu.rsc.org/everyday-chemistry/how-car-engines-work/4015995.article."
+            },
+            {
+                "citation": "Internal Combustion Engine Basics | Department of Energy, www.energy.gov/eere/vehicles/articles/internal-combustion-engine-basics. Accessed 21 Aug. 2024. "
+            }
+        ]
+    }    
+    
+    
 ]

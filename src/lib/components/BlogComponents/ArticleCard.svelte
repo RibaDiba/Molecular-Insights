@@ -85,8 +85,8 @@
     }
 
     .new-article-mobile img {
-        width: 100px;
-        height: 60px;
+        width: 120px;
+        height: 70px;
         object-fit: cover;
         border-radius: 0.5rem; /* Ensure the image corners match the rounded styling */
     }

@@ -36,10 +36,20 @@
                 {#if object.image}
                     <img src={object.image} class="rounded-lg w-full" alt="">
                 {/if}
-                
-                {#if object.paragragh}
+
+                {#if object.list} 
                     <div class="mt-5 text-lg">
-                        {object.paragragh}
+                        <ul class="list-disc list-inside">
+                            {#each object.list as elem}
+                                <li class="mt-2">{elem}</li>
+                            {/each}
+                        </ul>
+                    </div>
+                {/if}
+                
+                {#if object.paragraph}
+                    <div class="mt-5 text-lg">
+                        {object.paragraph}
                     </div>
                 {/if}
 

@@ -27,18 +27,28 @@
         {#each article.content as object}
             <div class="my-4 md:my-5">
                 {#if object.header}
-                    <div class="text-2xl md:text-3xl font-bold mt-6 md:mt-10 text-blue-950">
+                    <div class="text-2xl font-bold mt-10 text-blue-950">
                         {object.header}
                     </div>
                 {/if}
 
                 {#if object.image}
-                    <img src={object.image} class="rounded-lg w-full mt-4 md:mt-6" alt="">
+                    <img src={object.image} class="rounded-lg w-full" alt="">
+                {/if}
+
+                {#if object.list} 
+                    <div class="mt-5 text-lg">
+                        <ul class="list-disc list-inside">
+                            {#each object.list as elem}
+                                <li class="mt-2 text-md">{elem}</li>
+                            {/each}
+                        </ul>
+                    </div>
                 {/if}
                 
-                {#if object.paragragh}
-                    <div class="mt-4 md:mt-5 text-base md:text-lg">
-                        {object.paragragh}
+                {#if object.paragraph}
+                    <div class="mt-5 text-md">
+                        {object.paragraph}
                     </div>
                 {/if}
 

@@ -47,7 +47,7 @@
 
                             <span
                                 use:motion
-                                class="text-blue-950 dark:text-white poppins-thin text-7xl block md:hidden"
+                                class="text-blue-950 dark:text-white poppins-thin text-6xl block md:hidden"
                             >
                                 {word}{" "}
                             </span>
