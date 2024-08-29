@@ -5,6 +5,7 @@
     import MissionStatement from "@/components/MissionStatement.svelte";
     import MissionStatementMobile from "@/components/MissionStatementMobile.svelte";
     import { onMount } from "svelte";
+    import background from '$lib/images/lab_background.jpg'
 
     const words = "Molecular Insights";
     let scrolled = false;
@@ -20,7 +21,7 @@
 
 <main class="relative min-h-screen flex flex-col">
     <div class="relative w-full h-screen flex flex-col justify-center items-center bg-blue-200 overflow-hidden z-1">
-        <img src="src/lib/images/human_gamete_embryos.webp" alt="" class="w-full h-full object-cover absolute inset-0" />
+        <img src={background} alt="" class="w-full h-full object-cover absolute inset-0" />
 
         <div class="absolute inset-0 bg-gradient-to-b from-transparent to-blue-900 opacity-70 z-0"></div>
 
