@@ -1,6 +1,7 @@
 <script>
     import { onMount } from "svelte";
     import logo from "../images/logo/logo.png.png";
+    import {base} from '$app/paths'
 </script>
 
 <main>
@@ -12,7 +13,7 @@
                 class="container mx-auto flex justify-between items-center p-4 text-blue-950 font-Nuntio font-light text-3xl m-2"
             >
                 <div class="logo poppins-thin flex items-center logo justify-center">
-                    <a href="/">
+                    <a href="{base}/">
                         <img src={logo} alt="">
                     </a>
                     <a href="/" class="font-bold ml-2">Molecular Insights</a>
@@ -20,13 +21,13 @@
                 <ul class="flex space-x-10 poppins-thin">
                     <li>
                         <a
-                            href="/about"
+                            href="{base}/about"
                             class="poppins-thin after:bg-blue-950 hover-comp"
                             >About Us</a
                         >
                     </li>
                     <li>
-                        <a href="/blog" class="after:bg-blue-950 hover-comp"
+                        <a href="{base}/blog" class="after:bg-blue-950 hover-comp"
                             >Blog</a
                         >
                     </li>
