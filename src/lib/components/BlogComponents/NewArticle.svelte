@@ -28,12 +28,12 @@
             </div>
             <div class="max-w-72 text-left flex flex-col justify-center ">
                 <div class="badge mb-1 badge-primary badge-sm font-bold">NEW</div>
-                <h1 class="text-2xl font-bold leading-tight text-blue-950">
+                <h1 class="text-lg font-bold leading-tight text-blue-950">
                     <a href="/blog/{article.id}">{article.title}</a>
                 </h1>
-                <p class="mt-1 text-xs">
-                    {article.author} | {article.date}
-                </p>
+                <div class="mt-1 text-xs ">
+                    <div class="font-bold">{article.author}</div> {article.date}
+                </div>
             </div>
         </div>
     </section>
@@ -55,7 +55,7 @@
 
     .new-article-mobile img {
         width: 120px;
-        height: 100px;
+        height: 70px;
         object-fit: cover;
         align-self: flex-end;
     }
