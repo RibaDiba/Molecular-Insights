@@ -83,9 +83,6 @@
 		<FounderCarrousel {coFounders} {insta} {linkedIn}/>
 	</div>
 
-	<div class="bg-blue-100 mx-10 my-5">
-		<ScrollDivider transitionTime="2s" height="7px" color="#172554" />
-	</div>
 
 	<div class="">
 		<Writers {writers} {insta}/>
