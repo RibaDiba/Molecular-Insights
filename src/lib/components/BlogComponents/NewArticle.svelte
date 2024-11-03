@@ -21,17 +21,17 @@
         </div>
     </section>
 
-    <section class="bg-inherit py-4 poppins block md:hidden justify-center">
-        <div class="mx-auto flex md:flex-row justify-around">
+    <section class="bg-inherit py-4 poppins block md:hidden flex justify-center">
+        <div class="mx-auto flex flex-col md:flex-row justify-around">
             <div class="md:w-1/8 new-article-mobile flex justify-center">
                 <img src={article.cover} alt="" class="w-full h-auto rounded-lg">
             </div>
-            <div class="max-w-72 text-left flex flex-col justify-center ">
+            <div class="max-w-72 text-left flex flex-col justify-center mt-5">
                 <div class="badge mb-1 badge-primary badge-sm font-bold">NEW</div>
                 <h1 class="text-lg font-bold leading-tight text-blue-950">
                     <a href="/blog/{article.id}">{article.title}</a>
                 </h1>
-                <div class="mt-1 text-xs ">
+                <div class="mt-1 text-xs">
                     <div class="font-bold">{article.author}</div> {article.date}
                 </div>
             </div>
@@ -54,8 +54,8 @@
     }
 
     .new-article-mobile img {
-        width: 120px;
-        height: 70px;
+        width: 350px;
+        height: 200px;
         object-fit: cover;
         align-self: flex-end;
     }
