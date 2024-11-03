@@ -16,11 +16,10 @@
 	import ScrollDivider from "./ui/ScrollDivider/ScrollDivider.svelte";
 </script>
 
-<main class="mb-5">
+<main class="mb-10 mt-20">
     <div class="mission-container mt-10 ">
         <h1 class="mt-5 text-5xl text-center poppins-thin">Our Mission</h1>
-        <div class="overflow-hidden m-5 mx-96 mb-10 bg-inherit">
-            <ScrollDivider transitionTime='2s' color='#172554' height='7px'/>
+        <div class="overflow-hidden m-5 mx-96 mb-20 bg-inherit">
         </div>
     </div>
 
@@ -28,7 +27,7 @@
         <div class="absolute "></div>
 
         <div class="mission-text z-10">
-            <p class="poppins-thin text-4xl text-center mb-5">Inspire. Inform. Educate.</p>
+            <p class="poppins text-4xl text-center mb-5 font-md">Inspire. Inform. Educate.</p>
             <p class="text-justify text-lg">{mission}</p>
 
             <div class="button-group flex justify-around mt-5">
