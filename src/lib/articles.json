@@ -860,7 +860,42 @@
                 "citation": "Internal Combustion Engine Basics | Department of Energy, www.energy.gov/eere/vehicles/articles/internal-combustion-engine-basics. Accessed 21 Aug. 2024. "
             }
         ]
-    }    
-    
+    },
+    {
+        "id": 17,
+        "title": "Plasma-based CO2 Hydrogenation to Methanol",
+        "blurb": "Recent research from the University of Liverpool has found a novel plasma-catalytic process for converting CO2 into methanol high conversion rate at room temperature, using a bimetallic Ni-Co catalyst. This advancement not only improves efficiency but also aligns with renewable energy initiatives, making the process economically viable for large-scale production.",
+        "cover": "https://static.wixstatic.com/media/691f68_2998148df9654da488d30cd0c407fae3~mv2.png",
+        "author": "Dhruhi Patel",
+        "date": "August 26th, 2024",
+        "content": [
+            {
+                "header": "Introduction",
+                "paragraph": "With the looming threat of climate change, the world is scrambling to lower global greenhouse emissions. One of the major contributors to rising atmospheric temperatures is CO2 levels which have been consistently rising over the past few decades. Even as alternative energy sources are contemplated and tested, the existing CO2 in the atmosphere poses a tangible threat to the well-being of human and animal life. One of the most attractive options is to convert it to methanol via hydrogenation. For instance, the George Olah Renewable Methanol Plant in Iceland, operating since 2012, produces 4,000 tons of methanol a year from geothermal power."
+            },
+            {
+                "header": "Drawbacks of CO2 Conversion to Methanol",
+                "paragraph": "In an exothermic reaction, CO2 reacts with hydrogen gas to form methanol and water making the reaction thermodynamically favorable and attractive as no outside heat is required to go forward with the reaction. However, the conversion efficiency of popular homogeneous and heterogeneous catalysts is extremely low - maximizing at about 18% at 200 degrees Celsius using supercritical flow- and due to Le Chatelier’s Principle, conducting this reaction at high temperatures to expedite the reaction would be unfavorable for methanol production."
+            },
+            {
+                "header": "Increased Efficiency of Plasma-Catalytic Processes",
+                "paragraph": "Recently, a team of researchers at the University of Liverpool have made significant strides in the journey of making methanol production economically sustainable. They reported using a novel process with a bimetallic Ni-Co catalyst in a non-thermal plasma reactor, achieving an impressive 46% selectivity for methanol and 24% CO2 conversion at 35 °C and 0.1 MPa. Obtaining such a high conversion rate at room temperature and pressure has rendered this research particularly noteworthy. Because of plasma’s energized electrons and high reactivity, it can easily activate the inert chemical bonds of nonpolar molecules such as CO2, allowing for chemical reactions to occur at typical environmental conditions. In the team’s financial assessment of this process scaled industrially, they found that using plasma as a catalyst is economically viable as well. Plasma systems can also function on intermittent renewable electricity advancing chemical production alongside renewable energy initiatives."
+            }
+        ],
+        "citations": [
+            {
+                "citation": "“A New Leading Process for CO2 to Methanol.” New Energy and Fuel | News and Views for Making and Saving Money in New Energy and Fuel, 29 Aug. 2008, newenergyandfuel.com/http:/newenergyandfuel/com/2008/08/29/a-new-leading-process-for-co2-to-methanol/. Accessed 26 Aug. 2024."
+            },
+            {
+                "citation": "Azhari, Noerma J., et al. “Methanol Synthesis from CO2: A Mechanistic Overview.” Results in Engineering, vol. 16, Dec. 2022, p. 100711, https://doi.org/10.1016/j.rineng.2022.100711."
+            },
+            {
+                "citation": "“Pioneering Plasma-Catalytic Process for CO2 Hydrogenation to Methanol under Ambient Conditions.” ScienceDaily, 2024, www.sciencedaily.com/releases/2024/08/240809135728.htm. Accessed 26 Aug. 2024."
+            },
+            {
+                "citation": "Sugiyama, Hironobu, et al. Room-Temperature CO2 Hydrogenation to Methanol over Air-Stable Hcp-PdMo Intermetallic Catalyst. no. 17, Mar. 2023, pp. 9410–16, https://doi.org/10.1021/jacs.2c13801. Accessed 15 June 2023."
+            }
+        ]
+    }
     
 ]
