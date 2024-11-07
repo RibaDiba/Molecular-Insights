@@ -997,6 +997,150 @@
                 "citation": "Singing from memory unlocks a surprisingly common musical superpower. (2024, August 24). ScienceDaily. https://www.sciencedaily.com/releases/2024/08/240814185804.htm"
             }
         ]
+    },
+    {
+        "id": 20,
+        "title": "Childhood Cancer Awareness Month",
+        "blurb": "September is Childhood Cancer Awareness Month, a month dedicated to increasing understanding, supporting research, and helping those affected by this devastating illness. This article delves into what pediatric cancer is, the challenges young cancer patients face, and the significance of this month.",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQmyjl2lhJGHkggNJMXY1HC0vvTIUghdMwxG_WdsExuWOMSjpDpLpSY5wXqtsGHMC3lLs&usqp=CAU",
+        "author": "Faiza Shaik",
+        "date": "September 4th, 2024",
+        "content": [
+            {
+                "header": "September: A Call to Action",
+                "paragraph": "September, the first month we begin to see vivid greenery fade into autumn scenery. A month of transformation as new seasons and school years begin. A month that also raises awareness about a crucial issue affecting thousands of children and families worldwide. September is Childhood Cancer Awareness Month, a month dedicated to bringing attention to this devastating disease, promoting further research on it, and supporting those who are affected by it. Symbolized by the gold ribbon, this month reminds us of the young patients’ courage, the advancements that have already been made, and the resolution we all share to find a cure."
+             },
+            {
+                "header": "Early Signs and Differences",
+                "paragraph": "Cancer is a disease where cell growth is mutated and continues to grow without stop. This occurs when a gene mutation occurs that affects cell growth, specifically the chemical signals that tell cells when to stop multiplying. Childhood cancer can be very different from cancer in adults because whereas specific lifestyles or environmental factors can cause cancer in adults, childhood or pediatric cancers are caused by gene mutations that happen by chance. These mutations can be because of a mistake in cell division or mitosis, a virus, or inherited genetic mutations. They occur very early on in life, sometimes even before birth, making detection considerably more difficult. "
+           },
+            {
+                "image": "https://scitechdaily.com/images/Cancer-Cells-Red-777x518.jpg"
+            },
+            {
+                "paragraph": "Some signs could be an unusual lump, easy bruising and bleeding, frequent headaches or vomiting, and sudden vision changes, weight loss, or loss of energy. Many of these symptoms are typically mistaken for those of normal illnesses or the harmless injuries that young children so frequently have."
+            },
+            {
+                "header": "Diagnosis and Treatment",
+                "paragraph": "Despite it being relatively rare, childhood cancer is the leading cause of death by disease among young children and adolescents. In the U.S. alone, over 290 children and adolescents are diagnosed with cancer every week. On the larger worldwide scale, every year, around 400,000 kids in this range develop cancer, yet only around half are diagnosed. This is because about 90% of these children live in low or middle-income countries without adequate access to diagnosis and treatment and sadly, often die as a result. Some of the most common types of pediatric cancers include leukemia, brain cancers, lymphoma, and neuroblastoma."            
+            },
+            {
+                "image": "https://stjude.scene7.com/is/image/stjude/ulm-lauren-00197714-008?fit=crop,1&wid=500&hei=313"
+            },
+            {
+                "paragraph": "After diagnosis, these young patients must undergo specific treatment for a long time. Some of the most popular methods include surgery to remove a part or all of the tumor, chemotherapy, which kills or stunts the growth of cancer cells through powerful medicines, radiation therapy to kill or shrink tumors, immunotherapy to fight the cancer using their immune system, and targeted therapy, which targets certain features of cancer cells with drugs. The child’s doctor must ascertain what type or combination of therapy is appropriate for the specific patient, which can vary based on many factors like the child’s age, the location of the tumor, and the type of cancer."
+            },
+            {
+                "header": "Advancements and Hope",
+                "paragraph": "Despite many challenges and thanks to the efforts of organizations like the International Agency for Research on Cancer (IARC) and St. Jude’s Hospital, significant advancements in pediatric cancer research and treatment have been made. In fact, the American Association for Cancer Research reports that childhood cancer death rates have declined by almost 70% in the last 40 years, and the 5-year pediatric cancer survival rate in the US is over 80%."
+            },
+            {
+                "paragraph": "However, not all communities are as fortunate to have such high survival rates, and that’s why Childhood Cancer Awareness month is so important- raising awareness about this inequality, educating others, supporting and fundraising for research and treatment, and volunteering to help those afflicted are just some of the ways we can help. In this month that communities come together to “Go Gold,” we all play a part in making a difference in the fight against childhood cancer."
+            }
+        ],
+        "citations": [
+            {
+                "citation": "“Childhood Cancer Awareness Month: September.” St. Jude Children’s Research Hospital, www.stjude.org/get-involved/other-ways/childhood-cancer-awareness-month.html. Accessed 4 Sept. 2024."
+            },
+            {
+                "citation": "Harris, Scott. “Shine a Light on Childhood Cancer during September.” Alabama Public Health, 3 Sept. 2024, www.alabamapublichealth.gov/blog/2024/09/sho-september.html."            
+            },
+            {
+                "citation": "“September Is Childhood Cancer Awareness Month.” American Association for Cancer Research (AACR), 22 Aug. 2024, www.aacr.org/patients-caregivers/awareness-months/childhood-cancer-awareness-month/"
+            },
+            {
+                "citation": "“Understanding Cancer.” St. Jude Together, June 2023, together.stjude.org/en-us/about-pediatric-cancer/what-is-cancer.html."
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "title": "Your Brain and Sleep",
+        "blurb": "As the new school year begins in the United States, so do the long nights and all-nighters. But what role does sleep play and how exactly does it impact our brains and bodies?",
+        "cover": "https://drive.google.com/file/d/1CWiES7PLF_yJaqj-dC9Uin61BtxpOdKj/view",
+        "author": "Subiksha Baskaran",
+        "date": "September 6th, 2024",
+        "content": [
+            {
+                "paragraph": "As the new school year begins in the United States, so do the long nights and all-nighters for students around the globe. But what role does sleep play? And how exactly does it impact our brains and bodies?"
+             },
+            {
+                "header": "Stages of Sleep",
+                "paragraph": "In the first stage of sleep your brain transitions to a state of rest, slowing your brainwaves from the initial wakefulness pattern. Your muscles will also begin to relax as you slip into slumber. The second stage involves a drop in temperature, moving to slower breathing and heart rate. The third stage is the last non-REM stage, a state of deep sleep which is necessary to wake up refreshed in the morning, and where everything slows to its lowest point."
+           },
+            {
+                "paragraph": "The fourth stage is known as REM sleep, which happens around 90 minutes after falling asleep. This stage is where you dream and where your breathing, heart rate, and blood pressure increase. REM sleep first happens for about 10 minutes, and then increases with each following cycle."
+            },
+            {
+                "image": "https://drive.google.com/file/d/1x3honVsNiyaGHuZ63hgJp_eTyPSeJ9ki/view?usp=sharing"
+            },
+            {
+                "header": "What Happens?",
+                "paragraph": "A team of Switzerland-based scientists conducted a study which monitored an individual’s brain activity during sleep. Their results showed that synapses, or connections between neurons to pass information, return to their normal state during sleep – rather than staying at their peak activity. This impacts the brain's ability to create new connections between its neurons, also known as its neuroplasticity, which is also involved in learning and adapting to new stimuli and environments. Another study from 2017 monitored the individuals’ brain activity using an electroencephalogram (EEG). This study captured sleep spindles, or spikes in brain activity which are connected to memory and learning. Their final findings suggested that non-REM sleep's purpose was more correlated with suppressing information rather than learning new things."
+            },
+            {
+                "paragraph": "Overall, these various stages of sleep are essential for the health of your brain, and allowing it to reset and clean itself for the next day. Getting enough of the right quality sleep is crucial for your brain health, and memory for acing that next test!"            
+            }
+        ],
+        "citations": [
+            {
+                "citation": "“Good Quality Sleep Is Crucial to a Healthy Brain.” Welcome to Lehigh Valley Health Network, 16 Nov. 2022, www.lvhn.org/news/good-quality-sleep-crucial-healthy-brain."            
+            },
+            {
+                "citation": "“The Neuroscience of Sleep.” Medical News Today, MediLexicon International, www.medicalnewstoday.com/articles/what-happens-in-the-brain-when-you-sleep#Sleep,-memory,-and-learning."
+            },
+            {
+                "citation": "“Sleep and the Brain.” Sleepopolis, 21 Mar. 2023, sleepopolis.com/education/sleep-and-the-brain/."
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "title": "Inside the Spectrum: New Autism Treatments and Understanding",
+        "blurb": "Curious about the latest breakthroughs in autism research? This article reveals cutting edge treatments–oxygen therapy and oxytocin–that are helping people on the autism spectrum connect, thrive, and manage daily challenges without losing what makes them unique. From new diagnostic tools to tailored therapies, discover how science is opening doors to a future where neurodiversity isn’t just understood but celebrated.",        
+        "cover": "https://www.thekeyschool.org/wp-content/uploads/2021/04/what-is-autism-spectrum-disorder.png",
+        "author": "Ishwari Veerkar",
+        "date": "November 7th, 2024",
+        "content": [
+            {
+                "header": "What is Autism?",
+                "paragraph": "Autism, also known as Autism Spectrum Disorder (ASD), is a condition that affects how a person thinks, learns, and interacts with others. It is called a spectrum because it includes a wide range of strengths and challenges. Some people may have a tough time understanding social cues, while others might focus intensely on specific activities, almost like they have a superpower for those things! This unique way of experiencing the world is why autism is often referred to as a form of neurodiversity. "
+           },
+            {
+                "header": "New Treatments",
+                "paragraph": "Hyperbaric Oxygen Therapy (HBOT): HBOT is a safe and promising treatment that involves breathing pure oxygen in a special pressurized chamber. Recent studies show that this treatment can help reduce inflammation in the brain, which may improve social skills and brain function in people with autism. This is usually helpful for individuals struggling with social interactions or sensory overloads."            
+            },
+            {
+                "image": "https://i0.wp.com/post.healthline.com/wp-content/uploads/2022/09/hyperbaric-chamber-1296x728-header.jpg?w=1155&h=1528"
+            },
+            {
+                "paragraph": "Oxytocin Therapy: Known as the “love hormone”, oxytocin is naturally produced by our bodies and is linked to bonding and social connections. Scientists are experimenting with oxytocin treatments to help individuals with autism improve their social skills. Early studies suggest that oxytocin therapy could help people on the spectrum feel more comfortable and engaged in social situations."
+            },
+            {
+                "image": "https://images-provider.frontiersin.org/api/ipx/w=1200&f=png/https://www.frontiersin.org/files/Articles/483226/fpsyt-10-00930-HTML/image_m/fpsyt-10-00930-g001.jpg"
+            },
+            {
+                "paragraph": "Personalized Medication and Gene-Based Treatment: Future of autism treatments could be as unique as each person with autism. Researchers are exploring gene-based therapies targeting symptoms such as anxiety of hyperactivity. Often times, people with this spectrum tend to get overwhelmed over interactions, crowded places, loud noise and these therapies can help permanently alter the genome as a potential to alleviate the symptoms. "
+            },
+            {
+                "header": "Impacts",
+                "paragraph": "The goal of these treatments isn’t to “cure” autism since autism is a part of who a person is and should not be erased. Instead, these treatments are meant to support people with autism, so they can have the best quality of life on their own terms. Treatments like oxytocin therapy and hyperbaric oxygen therapy help individuals feel more confident in social situations and can diminish their fear of anxiety. "
+            },
+            {
+                "header": "Conclusion",
+                "paragraph": "Each new treatment brings hope that people with autism will have more options to overcome challenges without changing the unique qualities that make them who they are. By understanding autism and supporting these advancements, we are building a more inclusive world where everyone can thrive. Whether you know someone with autism, or just want to learn more, curiosity and kindness can help us all be better friends, classmates, neighbors and individuals. "
+            }
+        ],
+        "citations": [
+            {
+                "citation": "CDC. (2024, March 5). Treatment and Intervention for Autism Spectrum Disorder. Autism Spectrum Disorder (ASD). https://www.cdc.gov/autism/treatment/index.html"
+             },
+            {
+                "citation": "Hong, D., & Iakoucheva, L. M. (2023). Therapeutic strategies for autism: targeting three levels of the central dogma of molecular biology. Translational Psychiatry, 13(1), 1–14. https://doi.org/10.1038/s41398-023-02356-y"
+            },
+            {
+                "citation": "Weuring, W., Geerligs, J., & Koeleman, B. P. C. (2021). Gene Therapies for Monogenic Autism Spectrum Disorders. Genes, 12(11), 1667. https://doi.org/10.3390/genes12111667"
+            }
+        ]
     }
-    
 ]
