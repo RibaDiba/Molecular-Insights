@@ -960,6 +960,43 @@
                 "citation": "UPM BIOMEDICALS. “What Is 3D Bioprinting? How Does 3D Bioprinting Technology Work?” What Is 3D Bioprinting? | 3D Bioprinting Technology | UPM Biomedicals, 2024, www.upmbiomedicals.com/solutions/life-science/what-is-3d-bioprinting/."
             }
         ]
+    },
+    {
+        "id": 19,
+        "title": "Music and Memory",
+        "blurb": "Music and the brain have various connections from increased focus to intervention based therapy. New studies from the Georgia Institute of Technology show a clear link between music and memory as they look to research evidence for music based therapies in the future.",
+        "cover": "https://static.wixstatic.com/media/691f68_bc569178635342108dd4535612fc3060~mv2.jpg",
+        "author": "Sara Deo",
+        "date": "September 2nd, 2024",
+        "content": [
+            {
+                "header": "Introduction",
+                "paragraph": "Music has a unique ability to transport us through time, evoking memories that seem to be locked in the recesses of our minds. Whether it’s the melody of a childhood lullaby, the beat of a song from a pivotal moment in life, or the lyrics of a tune that resonated during a significant emotional event, music and memory are intrinsically linked. This connection is not merely sentimental; it is rooted in the complex workings of the human brain."
+             },
+            {
+                "header": "Music & Neuroscience",
+                "paragraph": "When we listen to music, it activates several regions of the brain simultaneously. The auditory cortex processes the sound, while the hippocampus, a crucial area for memory formation, helps recall associated memories. The prefrontal cortex, involved in emotional regulation and decision-making, is also engaged, which is why music can trigger powerful emotional responses. Studies have shown that music can enhance memory retention and recall. This phenomenon is particularly evident in people with Alzheimer's disease or other forms of dementia. Patients who struggle to remember names or faces can often recall entire songs and the emotions associated with them. This is because musical memory is stored in a different part of the brain than other types of memory, and it often remains intact even when other memory systems fail."
+           },
+            {
+                "header": "The Study",
+                "paragraph": "At the Georgia Institute of Technology, Ren Brown and their collaborators from the University of Colorado researched the effects of music on memory. Two main studies were conducted. One study included 44 Georgia Tech students who listened to film soundtracks while recalling difficult memories. This was not a clinical trial; this was a random group of people used to see if music has the power to modulate the emotional level of memories. The researchers could oversee all this happening with fMRI (functional magnetic resonance imaging). The altered brain activity, the increased connectivity between the amygdala (where emotions are processed), and the other areas of the brain associated with memory and integrating information were all visible. It shows how malleable memory is in response to music and how music plays a huge role in altering our existing memories."
+            },
+            {
+                "paragraph": "The second study included 48 participants who were asked to learn sequences of abstract shapes while listening to different types of music. First, the researcher played a piece of music with a familiar pattern of tone, rhythm, and melody. Then, she played the same set of notes out of order, giving the piece an atonal structure. When the participants heard the familiar, predictable music, they learned and remembered the sequences of shapes much faster, as the brain created a structured framework for new information. When familiar music but Meanwhile, music that was familiar but varying played, it made it harder for participants to learn."
+            },
+            {
+                "header": "Conclusion",
+                "paragraph": "Music is a fundamental part of our cognitive and emotional lives. It shapes our memories, helps us recall past experiences, and evokes emotions that connect us to those memories. Whether used therapeutically to help those with memory disorders or simply enjoyed as a soundtrack to our lives, music has a profound impact on our ability to remember and relive the moments that define us. As more research is being conducted, valuable evidence can be used to support the development of music-based therapy for mental health and cognitive function."
+            }
+        ],
+        "citations": [
+            {
+                "citation": "Neuroscientists explore the intersection of music and memory. (2024, August 24). ScienceDaily. https://www.sciencedaily.com/releases/2024/08/240828224256.htm"
+            },
+            {
+                "citation": "Singing from memory unlocks a surprisingly common musical superpower. (2024, August 24). ScienceDaily. https://www.sciencedaily.com/releases/2024/08/240814185804.htm"
+            }
+        ]
     }
     
 ]
