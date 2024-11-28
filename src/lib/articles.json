@@ -1142,5 +1142,58 @@
                 "citation": "Weuring, W., Geerligs, J., & Koeleman, B. P. C. (2021). Gene Therapies for Monogenic Autism Spectrum Disorders. Genes, 12(11), 1667. https://doi.org/10.3390/genes12111667"
             }
         ]
+    },
+    {
+        "id": 23,
+        "title": "2024 Nobel Prize in Physiology or Medicine: microRNA",
+        "blurb": "The 2024 Nobel Prize in Physiology or Medicine was awarded to both Victor Ambros and Gary Ruvkun due to their discovery of microRNA. MicroRNA  is a class of naturally-occurring, non-coding RNA molecules that could be used in next generation treatments for various human diseases.",
+        "cover": "https://cdn.prod.website-files.com/64a4a8f2f69628de58df83eb/64a4ad0d754d001d8b14d2d3_64a38331508243ef7755b37a_ev-mirna.jpeg",
+        "author": "Anumeha Haldar",
+        "date": "November 28th, 2024",
+        "content": 
+        [
+            {
+                "header": "Nobel Prize",
+                "paragraph": "This year, the Nobel Prize in Physiology or Medicine was awarded to both Victor Ambros and Gary Ruvkun due to their shared discovery of microRNA and the analysis of its role in post-transcriptional gene regulation."
+            },
+            {
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6cRr7VUMOWiAZbaQev7ihotjPK-lliJw7_A&s"
+            },
+            {
+                "header": "What is microRNA?",
+                "paragraph": "microRNA, which is also known as miRNA, refers to a class of naturally-occurring, non-coding RNA molecules. They happen to be only 18-25 nucleotides in length. In the last stage of protein synthesis, when mature mRNA is in the cell cytoplasm, microRNA binds with the mRNA. In doing so, themRNA fails to translate into a protein. Instead, the mRNA binded to miRNA is either destroyed or the components are recycled. Hence, the underexpression of microRNA leads to the overexpression of the protein and vice versa. "            
+            }, 
+            {
+                "image": "https://i.ytimg.com/vi/A56waEHGpZs/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBVxi56VvEq1W4h5ArZsm9d6IVPvg"
+            },
+            {
+                "header": "How was miRNA discovered?",
+                "paragraph": "In the late 1980s, Ambros and Ruvkun worked in the laboratory of H. Robert Horvitz. The duo studied gene control in two mutant forms of C. elegans which were known as lin-4 and lin-14. These forms had differences in the timing of certain genetics that controlled development. In the early 1990s, Ambros discovered that the lin-4 gene resulted in the production of a tiny RNA molecule that stops the expression of lin-14. Meanwhile, Ruvkun discovered that lin-4 didn’t inhibit transcription of the lin-14 gene, rather it happened later which led to hindered production of protein produced by lin-14. When the two compared their findings, they realized that lin-4 had been bound to an mRNA that encodes for lin-14 which inhibits translation into protein. In 2000, Ruvkun discovered another miRNA which appeared in mice and humans. "
+            },
+            {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CelegansGoldsteinLabUNC.jpg/220px-CelegansGoldsteinLabUNC.jpg"            
+            },
+            {
+                "header": "What is the future of microRNA?",
+                "paragraph": "Now, with almost a thousand microRNAs identified in humans, miRNA is seen as an important component of crucial processes. Learning how they work can allow us to develop new therapies to treat any human disease. For example, abnormal regulation by miRNAs lead to the development of cancer. Additionally, their prominent role of being a biomarker is promising and can allow for the diagnosis and treatment of diseases like Alzheimer’s. miRNAS are a promising therapeutic tool to treat various diseases through either restoring or correcting miRNA expression patterns. Thus, miRNA therapeutics are next-generation treatments that can change the medicine industry."            
+            },
+            {
+                "image": "https://www.activemotif.com/uploads/images/web_site/ebook-page/mirna-cancer-ebook-web.png"
+            }
+        ],
+        "citations": [
+            {
+                "citation": "Condrat, Carmen Elena, et al. “MiRNAs as Biomarkers in Disease: Latest Findings Regarding Their Role in Diagnosis and Prognosis.” Cells, vol. 9, no. 2, Jan. 2020, https://doi.org/10.3390/cells9020276."             
+            },
+            {
+                "citation": "Park, Alice. “What to Know about MicroRNA, the Nobel-Prizewinning Discovery.” TIME, Time, 7 Oct. 2024, time.com/7064822/nobel-prize-microrna-victor-ambros-gary-ruvkun/."
+            },
+            {
+                "citation": "Sigma Aldrich. “NMR Chemical Shifts of Impurities.” Merck, vol. 1, no. 1, 2024, www.sigmaaldrich.com/MX/en/technical-documents/technical-article/genomics/cloning-and-expression/blue-white-screening."
+            },
+            {
+                "citation": "Trafton, Anne. “Victor Ambros ’75, PhD ’79 and Gary Ruvkun Share Nobel Prize in Physiology or Medicine.” MIT News | Massachusetts Institute of Technology, Oct. 2024, news.mit.edu/2024/victor-ambros-gary-ruvkun-share-nobel-prize-physiology-medicine-1007."
+            }
+        ]
     }
 ]
